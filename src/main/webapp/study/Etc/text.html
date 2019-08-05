@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <script>
+        function readFile() {
+            var file = document.getElementById("file").files[0];
+
+            document.getElementById("fileName").textContent = file.name;
+            document.getElementById("fileSize").textContent = "(" + file.size + "byte)";
+
+            var reader = new FileReader();
+            reader.onload = function () {
+                var display = document.getElementById("content");
+                display.textContent = reader.result;
+            };
+            reader.onerror = function (evt) {
+                var errocode = evt.target.error.code;
+                if (errocode == 1) {
+                    alert("파일 찾을수없음");
+                } else if (errocode == 2) {
+                    alert("안전하지 못하거나 파일에 변경이있음");
+                } else if (errocode == 3) {
+                    alert("읽기가 중지되었습니다.");
+                } else if (errocode == 4) {
+                    alert("접근 권한 문제로 파일을 읽지 못함");
+                } else if (errocode == 5) {
+                    alert("URL 길이 제한문제");
+                }
+            };
+            var encodingList = document.getElementById("encoding");
+            var encoding = encodingList.options[encodingList.selectedIndex].value;
+
+            reader.readAsText(file, encoding);
+        }
+    </script>
+</head>
+
+<body>
+    <input id="file" type="file" />
+    <select id="encoding">
+        <option>euc-kr</option>
+        <option>utf-8</option>
+    </select>
+    <button onclick="readFile()">read</button>
+    <br/>
+    <div>
+        <span id="fileName">File Name</span>
+        <span id="fileSize">File Size</span>
+    </div>
+    <textarea id="content" style="width:600px; height:400px;" readonly></textarea>
+
+</body>
+
+</html>

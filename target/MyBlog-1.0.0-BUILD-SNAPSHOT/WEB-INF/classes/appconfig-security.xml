@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.1.xsd">
+
+	<context:component-scan base-package="test.sample" />
+	<http auto-config="true" use-expressions="true">
+		<intercept-url pattern="/" access="permitAll" />
+		<intercept-url pattern="/**/write*" access="hasRole('ROLE_USER')" />
+		<intercept-url pattern="/**/edit*" access="hasRole('ROLE_USER')" />
+		<intercept-url pattern="/**/delete*" access="hasRole('ROLE_USER')" />
+		<form-login login-page="/login" default-target-url="/"
+			authentication-failure-url="/login?error" username-parameter="username"
+			password-parameter="password" />
+		<logout logout-success-url="/" delete-cookies="JSESSIONID" />
+
+		<session-management invalid-session-url="/">
+			<concurrency-control max-sessions="1"
+				error-if-maximum-exceeded="true" />
+		</session-management>
+		<!-- X-Frame-Options to DENY 설정 때문에 iframe을 통해 접근할 수 없는 문제 해결 -->
+		<headers>
+			<frame-options policy="SAMEORIGIN" />
+		</headers>
+	</http>
+
+	<authentication-manager alias="authenticationManager">
+		<authentication-provider user-service-ref="memberDetailsServiceImpl">
+			<password-encoder ref="encoder"></password-encoder>
+		</authentication-provider>
+	</authentication-manager>
+
+	<beans:bean id="memberDetailsServiceImpl"
+		class="test.sample.security.MemberDetailServiceImpl"></beans:bean>
+
+	<beans:bean id="encoder"
+		class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder">
+		<beans:constructor-arg name="strength" value="11" />
+	</beans:bean>
+</beans:beans>

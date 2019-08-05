@@ -1,0 +1,128 @@
+body {
+    font: 12px Arial;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: geometricPrecision;
+}
+
+.line {
+    fill: none;
+    stroke: gray;
+    stroke-width: 3px;
+    shape-rendering: geometricPrecision;
+}
+.li {
+    fill:none;
+    stroke: gray;
+    stroke-width: 3px;
+    stroke-dasharray: 4,4;
+}
+.gps{
+    text-anchor: end;
+    font-size:40px;
+    font-weight: bold;
+}
+.gps2{
+    font-size: 15px;
+    text-anchor: end;
+}
+.xtext,.ytext{
+    text-anchor:middle;
+    font-size: 20px;
+}
+.rextext{
+    font-size: 10px;
+}
+.ptext{
+    font-size: 20px;
+    font-weight: bold;
+}
+.Ltext{
+    text-anchor:middle;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 5;
+}
+.outLtext{
+    line-height:0; 
+    font-size:0; 
+    text-indent:-1000px;
+}
+.Sline{
+    fill: none;
+    stroke: lightgray;
+    stroke-width: 2px;
+    stroke-dasharray: 4,4;
+}
+.dotText{
+    font-size:15px;
+}
+.dot {
+    fill: white;
+    stroke: steelblue;
+    stroke-width: 0.1px;
+}
+
+.dot10 {
+    fill: orange;
+    stroke: black;
+    stroke-width: 0px;
+}
+
+.dot2 {
+    fill: white;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.dot2_5 {
+    fill: skyblue;
+    stroke: black;
+    stroke-width: 0px;
+}
+
+.dot5_10 {
+    fill: blue;
+    stroke: black;
+    stroke-width: 0px;
+}
+
+.dotX {
+    fill: red;
+    stroke: red;
+    stroke-width: 0px;
+}
+.notdot{
+    fill: white;
+    stroke: white;
+    stroke-width: 0px;
+    opacity: 0;
+}
+#tooltip {
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+    /*    line-height: 20pt;*/
+}
+#test{
+    background-color: white;
+}
+
+.hidden {
+    display: none;
+    float: left;
+    width: 33%;
+}

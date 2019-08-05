@@ -1,0 +1,17 @@
+tnum	tval	tname	tplateau
+14	13	Smart Home Appliances	Five_to_10_years
+19	33	3D TV Services	Obsolete_before_Plateau
+22	48	TV App Platforms	Five_to_10_years
+25	63	Mobile Transphones	Obsolete_before_Plateau
+26	68	Social TV	Five_to_10_years
+30	88	OLED Lighting	Five_to_10_years
+32	93	Car Connectivity Consortium	Five_to_10_years
+50	90	Solar Power Mobile Devices	Five_to_10_years
+53	79	Broadband-Connected Televisions	Five_to_10_years
+73	20	3D LCDs	Two_to_five_years
+97	18	Pagewide-Array Office Inkjet Printing	Two_to_five_years
+107	24	Mobile WLAN Access Points	Two_to_five_years
+132	42	Open-Source Communications	Less_than_two_years
+136	45	AMOLED	Two_to_five_years
+179	59	Blu-ray Devices for Consumers	Less_than_two_years
+187	60	Basic Phones ? Open OS	Less_than_two_years

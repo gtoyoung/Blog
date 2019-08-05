@@ -1,0 +1,105 @@
+<html>
+
+<head>
+    <script>
+        //랜덤하게 정수를 생성
+        function nextRandomInteger(limit) {
+            return Math.round(Math.random() * limit);
+        }
+         //랜덤하게 알파벨을 리턴하는 함수
+        var alphabet = [];
+        alphabet.push("naver");
+        alphabet.push("daum");
+        alphabet.push("youtube");
+        alphabet.push("facebook");
+
+        function randomAlphabet() {
+            return alphabet[(nextRandomInteger(3))];
+        }
+
+        function randomSpped(maxSpeed) {
+            return Math.random() * maxSpeed - Math.random() * maxSpeed;
+        }
+    </script>
+    <!--생성자 함수-->
+    <script>
+        //MovingText의 생성자 함수
+        var canvasWidth = innerWidth;
+        var canvasHeight = innerHeight;
+
+        function MovingText() {
+            this.x = nextRandomInteger(canvasWidth);
+            this.y = nextRandomInteger(canvasHeight);
+            this.vx = randomSpped(10);
+            this.vy = randomSpped(10);
+
+            //문서 객체를 생성합니다.
+
+            this.body = document.createElement('h1');
+            this.body.innerHTML = randomAlphabet();
+            this.body.style.position = 'absolute';
+
+            //문서 객체를 document.body에 추가합니다.
+            document.body.appendChild(this.body);
+        }
+        MovingText.prototype.move = function () {
+            //범위 검사
+            if (this.x < 0 || this.x > canvasWidth) {
+                this.vx *= -1;
+            }
+            if (this.y < 0 || this.y > canvasHeight) {
+                this.vy *= -1;
+            }
+            //이동
+            this.x += this.vx;
+            this.y += this.vy;
+            //화면에 이동 표시
+            this.body.style.left = this.x + 'px';
+            this.body.style.top = this.y + 'px';
+        };
+    </script>
+    <!--window.onload-->
+    <script>
+        window.onload = function () {
+            var movingText = [];
+
+            for (var i = 0; i < 30; i++) {
+                movingText.push(new MovingText());
+            }
+            setInterval(function () {
+                for (var i in movingText) {
+                    movingText[i].move();
+                }
+            }, 1000 / 30);
+            var index = 0;
+            for (var i in movingText) {
+                if (movingText[i].body.textContent == "daum") {
+                    //movingText[i].body.style.color='red';
+                    movingText[i].body.onclick = function () {
+                        window.open('http://daum.net','child','width=600,height=300',true);
+                    }
+                } else if (movingText[i].body.textContent == "naver") {
+                    movingText[i].body.style.color='green';
+                    movingText[i].body.onclick = function () {
+                        window.open('http://naver.com','child','width=600,height=300',true);
+                    }
+                } else if (movingText[i].body.textContent == "facebook") {
+                    movingText[i].body.style.color='blue';
+                    movingText[i].body.onclick = function () {
+                        window.open('http://facebook.com','child','width=600,height=300',true);
+                    }
+                } else if (movingText[i].body.textContent == "youtube") {
+                    movingText[i].body.style.color='red';
+                    movingText[i].body.onclick = function () {
+                        window.open('http://youtube.com','child','width=600,height=300',true);
+                    }
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>

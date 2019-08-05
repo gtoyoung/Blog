@@ -1,0 +1,53 @@
+tnum	tval	tname	tplateau
+11	8	Wearable-Originated Payments	Five_to_10_years
+14	13	Super Cell	Five_to_10_years
+17	23	Video Chat	Five_to_10_years
+19	33	NFC Printing	Two_to_five_years
+20	38	Embedded Software and Systems Security	More_than_10_years
+22	48	5G	Five_to_10_years
+23	53	Education Tablet	Five_to_10_years
+23	53	Tangible User Interfaces	More_than_10_years
+25	63	Memristor Memory	Five_to_10_years
+26	68	OLED Technology	Five_to_10_years
+28	78	4K x 2K TV Displays	Two_to_five_years
+29	83	Personal Cloud Entertainment Platforms	Five_to_10_years
+30	88	Embedded Hypervisor	Five_to_10_years
+40	100	EMM/MDM Security Capabilities	Five_to_10_years
+40	100	Low-Cost Development Boards	Two_to_five_years
+45	98	Consumer Smart Appliances	Five_to_10_years
+45	98	Mobile Sports and Fitness	Two_to_five_years
+45	98	OLED Lighting	Five_to_10_years
+45	98	Wearable User Interfaces	Five_to_10_years
+45	98	Wireless Power Charging	Two_to_five_years
+48	95	Smart Appliances	Five_to_10_years
+50	90	LTE-A	Two_to_five_years
+50	90	Solar Power Mobile Devices	Five_to_10_years
+51	87	Continua 2014	Five_to_10_years
+53	79	Car Connectivity Consortium	Five_to_10_years
+54	73	Social TV	Five_to_10_years
+54	73	Voice Over LTE	Two_to_five_years
+55	68	Connected Televisions	Five_to_10_years
+55	68	Interoperable Storage Encryption	Five_to_10_years
+59	46	Ultrabooks	Two_to_five_years
+63	35	Over-the-Top Set-Top Boxes	Two_to_five_years
+66	29	Small Cells	Two_to_five_years
+73	20	NFC	Two_to_five_years
+88	14	802.11af	Two_to_five_years
+88	14	802.22	Five_to_10_years
+93	16	Home Health Monitoring	Five_to_10_years
+93	16	TD-LTE	Five_to_10_years
+97	18	3D LCDs	Less_than_two_years
+97	18	Glonass	Two_to_five_years
+100	20	Digital Out-of-Home	Two_to_five_years
+100	20	System Prototyping	Two_to_five_years
+107	24	Chromebooks	Two_to_five_years
+107	24	Mobile Content Creation	Two_to_five_years
+132	42	Biometric Authentication Methods	Two_to_five_years
+132	42	Connected Portable Media Players	Less_than_two_years
+139	47	Long Term Evolution	Two_to_five_years
+142	49	AMOLED	Two_to_five_years
+142	49	"Data Encryption Technologies, HDDs and SSDs"	Two_to_five_years
+156	55	Femtocells	Less_than_two_years
+161	56	Mobile Technology for Utilities	Two_to_five_years
+161	56	Tablets	Less_than_two_years
+166	57	Through-Silicon Vias	Less_than_two_years

@@ -1,0 +1,49 @@
+tnum	tval	tname	tplateau
+11	8	Quantum Dot Displays	Five_to_10_years
+16	18	4k x 2k TV Displays	Two_to_five_years
+17	23	Consumer Telepresence	Obsolete_before_Plateau
+18	28	3D TV Services	More_than_10_years
+19	33	802.11ac	Five_to_10_years
+19	33	Car Connectivity Consortium	Five_to_10_years
+19	33	Interoperable Storage Encryption	Five_to_10_years
+19	33	WiMAX 802.16m	Obsolete_before_Plateau
+20	38	LTE-A	More_than_10_years
+20	38	Solar-Powered Mobile Devices	Five_to_10_years
+22	48	Media Tablets in China	Two_to_five_years
+22	48	Video Chat for Customer Support	Two_to_five_years
+24	58	Media Tablets	Five_to_10_years
+26	68	Mobile Sports and Fitness	Two_to_five_years
+29	83	Wi-Fi Personal-Area Networks	Two_to_five_years
+30	88	OLED TVs	Two_to_five_years
+32	93	Broadband-Connected Televisions	Five_to_10_years
+35	98	OLED Screens for PCs	Two_to_five_years
+40	100	3D LCDs	Two_to_five_years
+45	98	Continua 2010	Five_to_10_years
+45	98	Media Tablet	Two_to_five_years
+45	98	NFC	Five_to_10_years
+45	98	Over-the-Top Set-Top Boxes	Two_to_five_years
+49	93	"Data Encryption Technologies, HDDs and SSDs"	Two_to_five_years
+50	90	Solar Power Mobile Devices	Five_to_10_years
+54	73	Near-Field Communication	Five_to_10_years
+56	62	802.22	Two_to_five_years
+56	62	LTE in China	Two_to_five_years
+56	62	White Spaces: Unlicensed Spectrum TV	Two_to_five_years
+57	56	TD-LTE	Five_to_10_years
+63	35	PC-Grade SSDs	Two_to_five_years
+73	20	Mini-notebooks	Two_to_five_years
+78	15	Floating Body DRAM	Two_to_five_years
+78	15	Phase Change Memory	Two_to_five_years
+83	13	802.16-2009	Two_to_five_years
+83	13	Consumer Mini-Notebooks	Less_than_two_years
+83	13	Home Health Monitoring	Five_to_10_years
+88	14	E-Book Readers	Less_than_two_years
+88	14	Long Term Evolution	Two_to_five_years
+88	14	Magnetometer	Two_to_five_years
+88	14	Wireless Video ? 2.4/5GHz	Two_to_five_years
+100	20	Femtocells	Less_than_two_years
+107	24	PC-Grade Solid-State Drives	Two_to_five_years
+107	24	Premium Communication Devices and Open OS	Less_than_two_years
+119	32	Open-Source Communications	Less_than_two_years
+123	35	Mobile Devices in Bank Branches	Less_than_two_years
+132	42	Through-Silicon Vias	Less_than_two_years
+156	55	Organic Light-Emitting Devices	Two_to_five_years

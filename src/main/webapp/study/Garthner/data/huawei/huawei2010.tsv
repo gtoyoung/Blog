@@ -1,0 +1,27 @@
+tnum	tval	tname	tplateau
+14	13	Rich Communication Suite	Five_to_10_years
+19	33	Convergent Communications Advertising Platforms	Five_to_10_years
+21	43	Femtocells	Two_to_five_years
+25	63	HSPA+	Two_to_five_years
+25	63	Mobile QoS for LTE	Two_to_five_years
+26	68	Integrated Policy and Charging Control Solutions	Two_to_five_years
+26	68	MPLS-TP	Two_to_five_years
+30	88	Next-Generation Service Delivery Platforms	Two_to_five_years
+32	93	Mobile Subscriber Data Management	Two_to_five_years
+35	98	Enterprise WDM	Less_than_two_years
+52	83	TD-SCDMA	Obsolete_before_Plateau
+53	79	Next-Generation Voice	Less_than_two_years
+54	73	TD-LTE	Two_to_five_years
+54	73	VDSL2	Two_to_five_years
+83	13	GMPLS/ASON	Less_than_two_years
+88	14	Business Intelligence Platforms	Five_to_10_years
+97	18	WiMAX 802.16m	Five_to_10_years
+100	20	ROADMs	Less_than_two_years
+100	20	Self-Organizing Networks	Two_to_five_years
+113	28	IMS	Two_to_five_years
+123	35	LTE-A	Five_to_10_years
+132	42	FTTH	Two_to_five_years
+139	47	Convergent Charging	Five_to_10_years
+139	47	High-Speed Uplink Packet Access	Less_than_two_years
+166	57	WDM PON	Five_to_10_years
+187	60	Long Term Evolution	Two_to_five_years

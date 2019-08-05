@@ -1,0 +1,274 @@
+tnum	tval	tname	tplateau
+7	5	Bio-Acoustic Sensing	More_than_10_years
+14	13	Controller-Free Gesture-Driven Applications for ERP	Five_to_10_years
+16	18	Cloud MOM Services	Two_to_five_years
+16	18	Cloud-Driven Business and IT Services	Two_to_five_years
+16	18	Collaborative Decision Making	Five_to_10_years
+16	18	Enterprise-Class Agile Development	More_than_10_years
+16	18	Trusted Viewing	More_than_10_years
+16	18	Web-Based Office Productivity Suites	Five_to_10_years
+17	23	Cloud UXP Services	Five_to_10_years
+17	23	Cloud-Enabled Integration Platforms (CEIPs)	Five_to_10_years
+17	23	Financial Services Industry Architecture Frameworks	More_than_10_years
+17	23	Server SW Appliance	Five_to_10_years
+18	28	Media-Embedded Merchandising	Five_to_10_years
+19	33	Tera-architectures	More_than_10_years
+19	33	User Experience Platforms	Five_to_10_years
+20	38	Cloud Management Platforms	Two_to_five_years
+20	38	Community Cloud	Five_to_10_years
+20	38	OAuth	Five_to_10_years
+20	38	Tangible User Interfaces	More_than_10_years
+20	38	Transcoderless and Software-Based Videoconferencing Infrastructure	Two_to_five_years
+21	43	Cloud Computing in PLM and Manufacturing	Five_to_10_years
+21	43	Event-Driven BPM	Five_to_10_years
+21	43	Smart Governance Operating Framework	Two_to_five_years
+21	43	User-Centric ERP Suites	Five_to_10_years
+22	48	Cloud Transaction Processing Style of Application Design	Five_to_10_years
+22	48	Intelligent Business Operations	Five_to_10_years
+22	48	Social Content	Five_to_10_years
+22	48	Video Chat for Customer Support	Two_to_five_years
+23	53	Citizen Data Vaults	More_than_10_years
+23	53	Cloud Computing	Five_to_10_years
+23	53	Cloud Services Brokerage	Five_to_10_years
+23	53	Cloud-Enabled Application Platforms (CEAPs)	Two_to_five_years
+23	53	Desktop Virtualization	Five_to_10_years
+23	53	Payment Frameworks	Five_to_10_years
+24	58	Agent Collaboration Tools	Five_to_10_years
+24	58	Location-Aware Applications	Five_to_10_years
+24	58	Servers Using Flash Memory for System Speedup	Two_to_five_years
+26	68	Cloud Email for Staff and Faculty	Two_to_five_years
+27	73	Cloud Application Development Services	Five_to_10_years
+27	73	Ensemble Interactions	Five_to_10_years
+27	73	Model-Driven Packaged Applications	Five_to_10_years
+27	73	Presence Federation	Five_to_10_years
+27	73	Simultaneous Collaborative Editing	Five_to_10_years
+28	78	Data Center Storage Encryption	Five_to_10_years
+28	78	Virtual Machine Resilience	Two_to_five_years
+29	83	Cloud UC (UCaaS)	Two_to_five_years
+29	83	Context-Enriched Services	Five_to_10_years
+29	83	Customer Interaction Hub	Two_to_five_years
+29	83	Home Energy Management/Consumer Energy Management	Five_to_10_years
+29	83	In-Memory Data Grids	Two_to_five_years
+29	83	Mobile Web Applications	Two_to_five_years
+30	88	Complex-Event Processing	Five_to_10_years
+30	88	Database Platform as a Service (dbPaaS)	Two_to_five_years
+30	88	HTML5	Five_to_10_years
+30	88	SOA Backplane	Two_to_five_years
+30	88	Social Software for Retail Employee Collaboration	Two_to_five_years
+30	88	User-Centric IAM	More_than_10_years
+30	88	V2P Server Management	Two_to_five_years
+32	93	Application Portfolio Management	Five_to_10_years
+32	93	Cloud Collaboration Services	Five_to_10_years
+32	93	Cloud-Based ECM	Two_to_five_years
+32	93	ERP Mobility	Two_to_five_years
+32	93	Home Server	Two_to_five_years
+32	93	Mobile Consumer Application Platforms	Two_to_five_years
+32	93	Object Relational Mapping for .NET	Two_to_five_years
+32	93	SOA in Manufacturing	Five_to_10_years
+32	93	Server-Hardware-Assisted Virtualization	Obsolete_before_Plateau
+32	93	Social Profiles	Two_to_five_years
+35	98	Activity Streams	Two_to_five_years
+35	98	Application PaaS (aPaaS)	Two_to_five_years
+35	98	Cloud Email	Two_to_five_years
+35	98	Cloud-Based Grid Computing	Two_to_five_years
+35	98	Cloud-Based Grid Computing	Two_to_five_years
+35	98	Government Cloud	Two_to_five_years
+35	98	Location-Based Services in Automotive	Two_to_five_years
+35	98	Operations Intelligence	Two_to_five_years
+35	98	Platform as a Service (PaaS)	Two_to_five_years
+35	98	Redaction Tools	Two_to_five_years
+35	98	SaaS in China	Five_to_10_years
+35	98	Semantic Web	More_than_10_years
+35	98	Test Data Management	Two_to_five_years
+40	100	Cloud Computing	Five_to_10_years
+40	100	Cross-Agency Case Management in Government	Five_to_10_years
+40	100	Healthcare Payer Member Portals	Two_to_five_years
+40	100	Metadata Stripping	Five_to_10_years
+40	100	Mobile Collaboration Client	Less_than_two_years
+40	100	Social-Learning Platform for Education	Two_to_five_years
+40	100	Vehicle Information Hub	Two_to_five_years
+45	98	Cloud Computing	Two_to_five_years
+45	98	Federated Application Life Cycle Management Suites	Five_to_10_years
+45	98	Memory Overcommit	Two_to_five_years
+45	98	Unified Communications	Two_to_five_years
+45	98	Web-Based Office Productivity Suites	Two_to_five_years
+45	98	Wireless Claims Applications	Two_to_five_years
+48	95	Analytical MDM	Obsolete_before_Plateau
+48	95	Cloud HPC/CaaS	Two_to_five_years
+48	95	Composite Content Applications	Two_to_five_years
+48	95	Mobile Advertising in India	Five_to_10_years
+48	95	Mobile Cloud Synchronization	Less_than_two_years
+48	95	Real-Time Bidding (Advertising)	Five_to_10_years
+49	93	Embedded Analytics	Five_to_10_years
+49	93	IT Process Automation Tools	Five_to_10_years
+49	93	Information Cards	Obsolete_before_Plateau
+49	93	Mobile Device Integration Into Automobiles	Two_to_five_years
+49	93	Virtual Machine Recovery	Five_to_10_years
+50	90	Application Performance Monitoring	Two_to_five_years
+50	90	Electronic Health Record-Based Clinical Studies	Five_to_10_years
+50	90	Next-Generation Retail OSs for POS	Five_to_10_years
+50	90	Virtual Switch	Less_than_two_years
+51	87	Enterprise Mashups	Two_to_five_years
+52	83	Automotive Business Process Fusion	Five_to_10_years
+52	83	Customer Service Contact Center SaaS	Two_to_five_years
+52	83	Gesture Recognition	Two_to_five_years
+52	83	Web Widgets	Two_to_five_years
+53	79	CRM in China	Two_to_five_years
+53	79	Integrated Clinical/Financial BI Systems	Five_to_10_years
+53	79	Virtualization Software Licensing	Five_to_10_years
+54	73	Advanced Clinical Research Information Systems	Two_to_five_years
+54	73	Templated Implementation Tools	Two_to_five_years
+55	68	Embedded Software and Electronics Design	Five_to_10_years
+55	68	Geospatial Mashups	Two_to_five_years
+56	62	802.22	Two_to_five_years
+56	62	Addressable TV Advertising	Five_to_10_years
+56	62	"Business Intelligence Platforms, China"	Five_to_10_years
+56	62	CDR	Five_to_10_years
+56	62	Modular EHR	Obsolete_before_Plateau
+56	62	The Direct Project	Two_to_five_years
+56	62	Unified Communications	Five_to_10_years
+56	62	White Spaces: Unlicensed Spectrum TV	Two_to_five_years
+57	56	External Community Platforms	Two_to_five_years
+57	56	Public Cloud Storage	Five_to_10_years
+58	51	Analytics	Two_to_five_years
+61	40	HIE	Five_to_10_years
+61	40	RIA Platforms	Two_to_five_years
+61	40	Server Provisioning and Configuration Management	Two_to_five_years
+63	35	Content Management Platforms	Two_to_five_years
+63	35	In-Memory Analytics	Two_to_five_years
+66	29	Automotive HMI Technologies	Five_to_10_years
+66	29	Cloud/Web Platforms	Two_to_five_years
+66	29	Surface Computers	Two_to_five_years
+66	29	Unified Communications and Collaboration	Two_to_five_years
+68	26	PLM-Based Team Collaboration	Two_to_five_years
+68	26	Personal Health Record	Five_to_10_years
+73	20	Consumer Web Mashups	Two_to_five_years
+73	20	Continuous Integration	Two_to_five_years
+73	20	PC Application Streaming	Two_to_five_years
+73	20	RIA Rich Client	Less_than_two_years
+78	15	Application Control	Two_to_five_years
+78	15	Mobile Advertising ? Automotive	Five_to_10_years
+83	13	Desktop Virtualization	Two_to_five_years
+83	13	Dynamic VOD TV Ads and Brand Units	Two_to_five_years
+83	13	Enterprise Digital Rights Management	More_than_10_years
+83	13	Federated Portals Across Vendor Families	Five_to_10_years
+83	13	IT Project and Portfolio Management Applications	Two_to_five_years
+83	13	Mobile Data Protection	Two_to_five_years
+83	13	Mobile Device Management	Five_to_10_years
+83	13	PC Hardware-Assisted Virtualization	Two_to_five_years
+83	13	Virtual Machine Live Migration	Less_than_two_years
+88	14	Email Encryption	Less_than_two_years
+88	14	Enterprise Content Management Suites	Two_to_five_years
+88	14	Hosted PC Virtualization Software	Obsolete_before_Plateau
+88	14	PC Application Virtualization	Less_than_two_years
+88	14	Phone Bar Code Reader	Two_to_five_years
+88	14	Quality/Warranty Management	Two_to_five_years
+88	14	Social Software Suites	Two_to_five_years
+88	14	x86 Server Virtualization	Two_to_five_years
+93	16	Composite Applications	Two_to_five_years
+93	16	Digital Marketing	Two_to_five_years
+93	16	Internal Community Platforms	Two_to_five_years
+93	16	Mobile Learning	Two_to_five_years
+93	16	Rich Presence	Two_to_five_years
+93	16	"x86 Server Virtualization, India"	Less_than_two_years
+97	18	BPM Standards	Five_to_10_years
+97	18	Business Intelligence Platforms	Five_to_10_years
+97	18	Enterprise Information Archiving	Two_to_five_years
+97	18	Mobile Advertising	Two_to_five_years
+97	18	Unified Communications	Two_to_five_years
+100	20	ARAD Service-Oriented Development of Applications	Two_to_five_years
+100	20	Database Encryption	Two_to_five_years
+100	20	Federated Search	Less_than_two_years
+100	20	Shared OS Virtualization (Nonmainframe)	Two_to_five_years
+100	20	Video Telephony: Enterprise	Obsolete_before_Plateau
+107	24	Business Intelligence for Performance Management in Government	Two_to_five_years
+107	24	Immersive Learning Environments	Two_to_five_years
+107	24	Multitouch	Less_than_two_years
+107	24	Online Ad Exchanges	Two_to_five_years
+107	24	Security Outsourcing	Less_than_two_years
+113	28	Content-Aware DLP for Email	Two_to_five_years
+113	28	Continuous Data Protection	Two_to_five_years
+113	28	"ERP, China"	Two_to_five_years
+113	28	Enterprise Content Management for Government	Two_to_five_years
+113	28	IT Event Correlation and Analysis Tools	Two_to_five_years
+113	28	Mashups	Less_than_two_years
+113	28	Media Engagement Metrics	Two_to_five_years
+113	28	Mobile Application Stores	Less_than_two_years
+113	28	SIP Communications	Two_to_five_years
+113	28	Software as a Service (SaaS)	Two_to_five_years
+113	28	Storage Resource Management	Two_to_five_years
+119	32	Geographic Information Systems	Two_to_five_years
+119	32	Lead Management	Less_than_two_years
+119	32	SIP-Enabled Contact Centers	Less_than_two_years
+119	32	Virtualization	Less_than_two_years
+119	32	Web Application Firewalls	Two_to_five_years
+123	35	Automobile eCall	Two_to_five_years
+123	35	Enterprise Content Management	Two_to_five_years
+123	35	Handwriting Recognition	Two_to_five_years
+123	35	Sales Force Automation SaaS	Less_than_two_years
+123	35	Web Services	Less_than_two_years
+127	38	Utility BI and Analytics	Two_to_five_years
+132	42	B2B Web Services	Two_to_five_years
+132	42	Business Activity Monitoring	Less_than_two_years
+132	42	Cloud Advertising	Two_to_five_years
+132	42	E-Commerce Web 2.0 Tools for Selling	Two_to_five_years
+132	42	Event-Driven Architecture	Less_than_two_years
+132	42	Game Consoles as Media Hubs	Less_than_two_years
+132	42	Network DVR	Less_than_two_years
+132	42	PLM-Centric Team Collaboration	Less_than_two_years
+132	42	Public-Key Operations	Two_to_five_years
+132	42	Rich Media ? Live Streaming	Less_than_two_years
+132	42	Server Virtualization	Less_than_two_years
+132	42	Server-Based Replication	Two_to_five_years
+132	42	Service-Oriented Business Applications	Less_than_two_years
+132	42	User Provisioning	Two_to_five_years
+132	42	Virtual Machine: Hypervisor	Less_than_two_years
+132	42	x86 Server Virtualization	Less_than_two_years
+136	45	Consumer Digital Rights Management	Two_to_five_years
+136	45	Dashboards	Less_than_two_years
+136	45	Utility GIS	Two_to_five_years
+139	47	B2B Gateway Software	Two_to_five_years
+139	47	Consumer Telematics	Five_to_10_years
+139	47	High-Performance Computing Clusters: Windows	Less_than_two_years
+139	47	Interactive TV	Two_to_five_years
+139	47	Mobile IM	Less_than_two_years
+139	47	Mobile Search	Less_than_two_years
+139	47	Second-Generation Portlet Standards (JSR 286 and WSRP v.2)	Less_than_two_years
+142	49	Connected Portable Media Players	Less_than_two_years
+148	52	Dedicated Email Services	Two_to_five_years
+148	52	Excel as a BI Front End	Two_to_five_years
+148	52	Federated Portals Within Vendor Families	Less_than_two_years
+148	52	Mobile Application Development	Less_than_two_years
+148	52	Speech Recognition	Two_to_five_years
+156	55	Database Appliances	Less_than_two_years
+156	55	Distributed Tape for Backup and Archiving	Less_than_two_years
+156	55	Federated Identity Management	Less_than_two_years
+156	55	Federated Identity Management	Less_than_two_years
+156	55	PC Configuration Life Cycle Management	Less_than_two_years
+161	56	Order-to-Delivery Systems	Two_to_five_years
+161	56	Organization-Centric IAM	Less_than_two_years
+161	56	Records Management	Less_than_two_years
+161	56	Rich Media on Demand	Less_than_two_years
+166	57	64-Bit Windows Server	Less_than_two_years
+166	57	Bioinformatics	Less_than_two_years
+166	57	Customer Service and Support Applications for Healthcare Payers	Less_than_two_years
+166	57	E-Forms	Less_than_two_years
+166	57	Enterprise Content Management Suites	Less_than_two_years
+172	58	Enterprise PKI	Two_to_five_years
+172	58	Grid Computing Without Public Cloud Computers	Less_than_two_years
+172	58	Grid Computing Without Using Public Cloud Computers	Less_than_two_years
+179	59	Active Directory/Kerberos	Less_than_two_years
+179	59	ERP in India	Less_than_two_years
+179	59	ESB Suites	Less_than_two_years
+179	59	Mobile Enterprise Application Platforms	Two_to_five_years
+179	59	Sales Reporting	Less_than_two_years
+179	59	Speech Recognition for Contact Center Applications	Less_than_two_years
+179	59	Voice Over Internet Protocol	Less_than_two_years
+187	60	Business Intelligence Platforms	Less_than_two_years
+187	60	Data-Mining Workbenches	Less_than_two_years
+187	60	Distributor Extranets	Less_than_two_years
+187	60	Email Continuity	Less_than_two_years
+187	60	Federated Identity Management	Less_than_two_years
+187	60	OOA&D Methodologies	Less_than_two_years
+187	60	Secure Email Gateway	Less_than_two_years
+187	60	Social Search	Less_than_two_years

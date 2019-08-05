@@ -1,0 +1,51 @@
+tnum	tval	tname	tplateau
+14	13	Super Cell	Five_to_10_years
+17	23	400 Gbps Transport	Two_to_five_years
+18	28	LTE-U	Five_to_10_years
+18	28	Software-Defined Compute	Five_to_10_years
+22	48	5G	Five_to_10_years
+25	63	In-Memory Computing (IMC)-Optimized Servers	Five_to_10_years
+25	63	In-Memory Computing Enabling Systems	Five_to_10_years
+26	68	100 Gbps PON	Five_to_10_years
+27	73	Smart Antennas for CSP Networks	Two_to_five_years
+29	83	Intelligent Transportation Systems	Five_to_10_years
+30	88	Open APIs in CSPs' Infrastructure	Two_to_five_years
+35	98	Object Storage	Five_to_10_years
+49	93	802.11ai	Five_to_10_years
+49	93	Desktop Virtualization	Five_to_10_years
+49	93	Integrated Systems: Infrastructure	Two_to_five_years
+50	90	LTE-A	Two_to_five_years
+50	90	Networking IT and OT	Two_to_five_years
+51	87	4G Standard	Two_to_five_years
+54	73	Mobile Self-Organizing Networks	Less_than_two_years
+55	68	Integrated Policy and Charging Control Solutions	Two_to_five_years
+57	56	Unified Communications	Five_to_10_years
+58	51	Business Intelligence and Analytics Platforms	Five_to_10_years
+58	51	Green Data Center	Two_to_five_years
+58	51	Mobile QoS for LTE	Two_to_five_years
+59	46	Converged Cable Access Platform	Two_to_five_years
+63	35	Storage Cluster File Systems	Five_to_10_years
+66	29	Small Cells	Two_to_five_years
+68	26	802.11u	Two_to_five_years
+68	26	Next-Generation Service Delivery Platforms	Two_to_five_years
+78	15	Mobile Subscriber Data Management	Two_to_five_years
+83	13	Multinode Servers	Two_to_five_years
+93	16	TD-LTE	Five_to_10_years
+97	18	10G-PON	Two_to_five_years
+97	18	Glonass	Two_to_five_years
+100	20	DSL Vectoring/G.fast	Two_to_five_years
+107	24	Appliance-Based Replication	Two_to_five_years
+113	28	Integrated Systems: Infrastructure	Less_than_two_years
+113	28	Rich Communication Suite	Less_than_two_years
+113	28	Universal Queue Management	Two_to_five_years
+119	32	100 Gbps Transport	Two_to_five_years
+119	32	IMS	Less_than_two_years
+132	42	Unified Threat Management (UTM)	Less_than_two_years
+139	47	Long Term Evolution	Two_to_five_years
+142	49	40 Gbps Transport	Two_to_five_years
+156	55	Femtocells	Less_than_two_years
+161	56	Convergent Charging	Less_than_two_years
+172	58	FTTH	Two_to_five_years
+172	58	Mission-Critical Workloads on Linux	Less_than_two_years
+179	59	Contact Centers: IP-Based	Less_than_two_years
+187	60	Stateful Firewalls	Less_than_two_years

@@ -1,0 +1,89 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<link rel="stylesheet"
+	href="/webjars/jqcloud2/2.0.1/dist/jqcloud.min.css">
+<div id="sidebar-wrapper">
+	<ul class="sidebar-nav">
+		<c:if test="${pageContext.request.userPrincipal.name != null}">
+			<form id="logoutForm" method="POST" action="${contextPath}/logout">
+				<input type="hidden" name="${_csrf.parameterName}"
+					value="${_csrf.token}" />
+			</form>
+
+			<h2>
+				환영합니다. ${pageContext.request.userPrincipal.name} 님<a id="logoutbtn"
+					onclick="document.forms['logoutForm'].submit()">Logout</a>
+			</h2>
+
+		</c:if>
+		<c:if test="${pageContext.request.userPrincipal.name == null}">
+			<h2>
+				<a href="/login">Login</a>
+			</h2>
+		</c:if>
+		<li><a href="/post/list">Home</a></li>
+		<li><a href="/post/write">글쓰기</a></li>
+		<li><a href="/post/search">Search</a></li>
+		<hr>
+		<li><a href="#menu" id="menu">재미로..</a></li>
+		<ul id="submenu" style="display: none;">
+			<li><a href="/study/RGB/index.html"> -RGB</a></li>
+			<li><a href="/study/Garthner/index.html"> -Hyper</a></li>
+			<li><a href="/study/Etc/test.html">-이동하는글 링크</a></li>
+			<li><a href="/study/Etc/text.html">-텍스트파일 읽기</a></li>
+		</ul>
+		<hr>
+		<li><a href="#categorymenu" id="categorymenu">category</a></li>
+		<ul id="categorysubmenu" style="display: none;">
+			<c:forEach items="${categoryMap}" var="category">
+				<li><a href="/category/${category.id}/post/list"><c:out
+							value="${category.name}" escapeXml="true" /></a></li>
+			</c:forEach>
+		</ul>
+		<hr>
+		<li class="sidebar-brand">Tags</li>
+
+		<div id="tag-cloud"
+			style="width: 95%; height: 270px; margin: -10px 5px;"></div>
+	</ul>
+</div>
+
+<script src="/webjars/jqcloud2/2.0.1/dist/jqcloud.min.css"></script>
+<script src="/webjars/jqcloud2/2.0.1/dist/jqcloud.min.js"></script>
+<script>
+	$(document).ready(function() {
+		$("#menu-toggle").click(function(e) {
+			e.preventDefault();
+			$("#wrapper").toggleClass("toggled");
+		});
+		$("#menu").click(function(e) {
+			e.preventDefault();
+			var obj = document.getElementById("submenu");
+			if (obj.style.display == "none") {
+				obj.style.display = "block";
+			} else if (obj.style.display == "block")
+				obj.style.display = "none";
+
+		});
+		$.ajax({
+			type : 'GET',
+			url : '/tag-cloud',
+			dataType : 'json',
+			success : function(word_array) {
+				$("#tag-cloud").jQCloud(word_array);
+				loadTag = true;
+			}
+		});
+		$("#categorymenu").click(function(e) {
+			e.preventDefault();
+			var obj = document.getElementById("categorysubmenu");
+			if (obj.style.display == "none") {
+				obj.style.display = "block";
+			} else if (obj.style.display == "block")
+				obj.style.display = "none";
+
+		});
+	});
+</script>
+
+

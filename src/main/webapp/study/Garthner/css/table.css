@@ -1,0 +1,22 @@
+table.tb {
+    background: #E2F2D3;
+    margin: 20px;
+    text-align: center
+}
+
+table.tb th,
+td {
+    border: 1px solid #33904E;
+    padding: 10px
+}
+
+table.tb td {
+    font-size: 17px;
+}
+
+table.tb th {
+    background: #8FC147;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+}

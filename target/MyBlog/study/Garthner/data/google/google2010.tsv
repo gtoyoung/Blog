@@ -1,0 +1,85 @@
+tnum	tval	tname	tplateau
+7	5	Humanitarian Disaster Relief	Two_to_five_years
+7	5	Web-Based Office Productivity Suites	Two_to_five_years
+17	23	B2B Web Services	Two_to_five_years
+18	28	Security Outsourcing	Two_to_five_years
+19	33	Convergent Communications Advertising Platforms	Five_to_10_years
+20	38	Simultaneous Collaborative Editing	Five_to_10_years
+20	38	Social-Learning Platform for Education	Two_to_five_years
+22	48	E-Commerce Web 2.0 Sales Tools	Two_to_five_years
+22	48	Web Experience Analytics	Two_to_five_years
+23	53	RIA Platforms	Two_to_five_years
+24	58	Fourth-Generation Collaboration	Five_to_10_years
+25	63	Rich Information Visualization	Five_to_10_years
+26	68	Mobile Browsers	Two_to_five_years
+26	68	Tera-architectures	More_than_10_years
+27	73	Global Library Digitization Projects	Five_to_10_years
+27	73	Spring Framework	Less_than_two_years
+27	73	noSQL Database Management Systems	Two_to_five_years
+28	78	Geospatial Mashups	Two_to_five_years
+28	78	Mobile Advertising	Five_to_10_years
+29	83	Corporate Blogging	Less_than_two_years
+30	88	Community Marketing Automotive	Five_to_10_years
+30	88	Context Delivery Architecture	Five_to_10_years
+32	93	Digital Marketing	Two_to_five_years
+32	93	Integrated Composition Environments	Five_to_10_years
+32	93	Machine Translation	Two_to_five_years
+32	93	Mobile Cloud Synchronization	Two_to_five_years
+32	93	White Spaces:  Unlicensed Spectrum TV	Two_to_five_years
+40	100	Web Analytics	Less_than_two_years
+45	98	Cloud Computing	Two_to_five_years
+48	95	Cloud E-Mail	Two_to_five_years
+48	95	Navigation Solutions	Two_to_five_years
+48	95	Open-Source Communications	Less_than_two_years
+49	93	Consumer Telematics	Five_to_10_years
+49	93	Home Energy Management/Consumer Energy Management	Five_to_10_years
+49	93	NHIN Direct	Two_to_five_years
+49	93	Public Cloud Computing/the Cloud	Two_to_five_years
+50	90	Location-Based Services	Less_than_two_years
+50	90	Mobile Advertising	Two_to_five_years
+51	87	Mobile Application Stores	Less_than_two_years
+52	83	Enterprise Mashups	Two_to_five_years
+52	83	Unified Communications and Collaboration	Five_to_10_years
+53	79	DBMS as a Cloud Service	Two_to_five_years
+53	79	Healthcare Insurance Member Portals 2.0	Two_to_five_years
+53	79	Social Content	Five_to_10_years
+54	73	Digital Ad Operations Platforms	Two_to_five_years
+55	68	Cloud HPC/CaaS	Two_to_five_years
+56	62	Cloud Printing Services	Five_to_10_years
+58	51	Cloud Computing for the Enterprise	More_than_10_years
+59	46	High-Assurance Public Identity Provider	Five_to_10_years
+59	46	Mobile Presence	Two_to_five_years
+59	46	Web 2.0 and BI	Two_to_five_years
+73	20	Web 2.0	Five_to_10_years
+78	15	App and Widget Advertising	Two_to_five_years
+78	15	Platform as a Service (PaaS)	Two_to_five_years
+78	15	Presence	Less_than_two_years
+83	13	Collaborative Decision Making	Five_to_10_years
+83	13	Mobile E-Mail Services	Less_than_two_years
+88	14	Application Integration and Infrastructure Appliances	Two_to_five_years
+88	14	HTML5	Five_to_10_years
+88	14	Location-Aware Applications	Two_to_five_years
+88	14	Open-Source Software in IP Telephony	Obsolete_before_Plateau
+88	14	Personal Health Record	Five_to_10_years
+97	18	Browser Client OS	Two_to_five_years
+97	18	Cloud Advertising	Five_to_10_years
+97	18	Public Cloud Computing	Two_to_five_years
+100	20	Cloud Computing	Five_to_10_years
+100	20	Mashups	Two_to_five_years
+100	20	Mobile Collaboration Client	Two_to_five_years
+107	24	Mobile Search	Two_to_five_years
+107	24	Open-Source AD Testing Tools	Two_to_five_years
+113	28	Cloud Application Development Tools	Two_to_five_years
+113	28	Social Software Suites	Two_to_five_years
+113	28	Web Widgets	Two_to_five_years
+123	35	Mobile Web Applications	Two_to_five_years
+136	45	Cloud Computing	Two_to_five_years
+142	49	Citizen Data Vaults	More_than_10_years
+148	52	Context-Enriched Services	Five_to_10_years
+161	56	Consumer Web Mashups	Two_to_five_years
+161	56	E-Commerce Web 2.0 Sales Tools for Automotive	Two_to_five_years
+172	58	Cloud/Web Platforms	Two_to_five_years
+179	59	Location-Based Services	Five_to_10_years
+179	59	Social Software Standards	Five_to_10_years
+187	60	Cloud APaaS	Two_to_five_years
+187	60	Cloud E-Mail	Less_than_two_years

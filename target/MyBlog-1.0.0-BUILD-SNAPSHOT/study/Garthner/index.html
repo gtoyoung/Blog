@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/line.css" />
+    <link rel="stylesheet" href="css/table.css"/>
+    <link rel="stylesheet" href="css/lightbox.css"/>
+    <link rel="stylesheet" href="css/arc.css"/>
+    <script src="js/d3.v3.js"></script>
+    <script src="js/base.js"></script>
+    <script src="js/vendor_data.js" defer></script>
+    <script src="js/light.js" defer></script>
+</head>
+
+
+<body>
+<!--    <div id="graph1" style="float: left;width: 50%"></div>-->
+     기업:
+   <select id="vendor">
+    <option value="--">선택</option>
+    <option value="0">Google</option>
+    <option value="1">Apple</option>
+    <option value="2">Microsoft</option>
+    <option value="3">IBM</option>
+    <option value="4">Samsung</option>
+    <option value="5">LG</option>
+    <option value="6">Huawei</option>
+    </select>
+    
+    년도:
+    <select id="year">
+    <option value="--">선택</option>
+    <option value="0">2014</option>
+    <option value="1">2013</option>
+    <option value="2">2012</option>
+    <option value="3">2011</option>
+    <option value="4">2010</option>
+    
+    </select>
+    <div class="test" id="graph2" style="width:50%"></div>
+    <div id="tooltip" class="hidden">
+        <p><span id="value"></span>
+        </p>
+    </div>
+    <div  class="test" id="scroll" style="width:50%; height:200px; overflow:auto">
+        
+    </div>
+    
+    <div id="light" class="white_content" onclick="close_click()"><h2>테스트</h2>
+    </div>
+    <div id="fade" class="black_overlay"></div>
+</body>
+
+</html>

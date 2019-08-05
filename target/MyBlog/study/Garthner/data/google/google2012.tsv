@@ -1,0 +1,112 @@
+tnum	tval	tname	tplateau
+14	13	HTTP 2.0	More_than_10_years
+16	18	Personal Cloud Entertainment Platforms	Five_to_10_years
+16	18	Platform as a Service in China	Five_to_10_years
+17	23	Web Real-Time Communications	Two_to_five_years
+20	38	Media-Embedded Merchandising	Five_to_10_years
+20	38	Web-Based Office Productivity Suites	Five_to_10_years
+21	43	Community Cloud	Two_to_five_years
+21	43	Mobile Transphones	Five_to_10_years
+21	43	TV App Platforms	Five_to_10_years
+22	48	OAuth	Five_to_10_years
+24	58	Social TV	Five_to_10_years
+25	63	Autonomous Vehicles	Five_to_10_years
+25	63	Integrated UPS	Five_to_10_years
+25	63	Personal Cloud	Two_to_five_years
+26	68	Citizen Data Vaults	More_than_10_years
+26	68	Cloud Computing	Five_to_10_years
+26	68	Wi-Fi Positioning Systems	Two_to_five_years
+27	73	Open Source in UC Components	Five_to_10_years
+27	73	Wearable Computers	Five_to_10_years
+28	78	Cloud Application Development Services	Five_to_10_years
+28	78	Context Delivery Architecture	Five_to_10_years
+28	78	Simultaneous Co-Editing Tools	Five_to_10_years
+28	78	Socialcasting	Two_to_five_years
+29	83	ERP App Stores/Marketplaces	Two_to_five_years
+29	83	Employee Use of Social Media in Government	Two_to_five_years
+29	83	Speech-to-Speech Translation	Five_to_10_years
+30	88	Social Content	Two_to_five_years
+32	93	Cloud Printing Services	Five_to_10_years
+32	93	Context-Enriched Services	Five_to_10_years
+32	93	Mobile Web Applications	Two_to_five_years
+32	93	Social Software Standards	Five_to_10_years
+35	98	HTML5	Five_to_10_years
+35	98	Mobile Thick Wallet Solutions	Two_to_five_years
+40	100	BYOD	Two_to_five_years
+40	100	Bring Your Own Device	Two_to_five_years
+40	100	Cloud Email	Two_to_five_years
+40	100	LBSs in Automotive	Two_to_five_years
+40	100	Platform as a Service	Two_to_five_years
+45	98	Mobile Collaboration Client	Two_to_five_years
+45	98	Semantic Web	More_than_10_years
+48	95	Browser Client OS	Five_to_10_years
+48	95	Cloud Collaboration Services	Five_to_10_years
+48	95	Government Cloud	Two_to_five_years
+49	93	Application PaaS	Two_to_five_years
+49	93	Application Stores	Five_to_10_years
+49	93	Augmented Reality	Five_to_10_years
+49	93	Database Platform as a Service (dbPaaS)	Two_to_five_years
+49	93	In-App Advertising	Two_to_five_years
+50	90	NFC Payment	Five_to_10_years
+50	90	Open Government Data	Two_to_five_years
+51	87	Cloud Computing	Two_to_five_years
+51	87	Mobile Application Stores	Two_to_five_years
+52	83	Cloud Synchronization	Two_to_five_years
+52	83	Community Marketing Automotive	Five_to_10_years
+52	83	Enterprise Mashups	Obsolete_before_Plateau
+52	83	Head-Mounted Displays	Five_to_10_years
+52	83	Internet TV	Five_to_10_years
+53	79	Public Cloud Computing/The Cloud	Two_to_five_years
+53	79	Web Experience Analytics	Two_to_five_years
+53	79	Web-Based Office Productivity Suites	Five_to_10_years
+54	73	Cloud HPC/CaaS	Two_to_five_years
+54	73	NFC	Two_to_five_years
+54	73	Retail Mobile Payments	Five_to_10_years
+55	68	Cloud Computing	Two_to_five_years
+55	68	Mobile Advertising	Two_to_five_years
+56	62	NFC-Enabled Mobile Payment System ? North America	Two_to_five_years
+56	62	Social Learning Platform for Education	Two_to_five_years
+56	62	Social Network Payment System	Two_to_five_years
+57	56	Cloud UC (UCaaS)	Two_to_five_years
+57	56	Geospatial Mashups	Two_to_five_years
+57	56	NwHIN Direct	Two_to_five_years
+58	51	Online Video Publishing Platforms	Two_to_five_years
+61	40	Public Cloud Storage	Two_to_five_years
+63	35	802.22	Five_to_10_years
+63	35	White Spaces: Super Wi-Fi	Five_to_10_years
+66	29	LBA/LBM	Five_to_10_years
+68	26	Humanitarian Disaster Relief	Two_to_five_years
+73	20	Enterprise Use of Social Media in Government	Two_to_five_years
+78	15	Cloud Email for Staff and Faculty	Two_to_five_years
+78	15	Cloud/Web Platforms	Two_to_five_years
+78	15	RIA Platforms	Two_to_five_years
+83	13	Addressable TV Advertising	Five_to_10_years
+83	13	Device-Embedded Biometric Authentication	Obsolete_before_Plateau
+88	14	Location-Based Services for Government	Two_to_five_years
+88	14	M-Commerce	Five_to_10_years
+93	16	Digital Marketing	Two_to_five_years
+97	18	Voice to Text on Mobile Devices	More_than_10_years
+100	20	Consumer Web Mashups	Two_to_five_years
+100	20	Location-Aware Applications	Two_to_five_years
+107	24	Rich Presence	Two_to_five_years
+113	28	Mobile Advertising	Two_to_five_years
+113	28	Mobile Advertising	Two_to_five_years
+113	28	Unified Communications and Collaboration	Two_to_five_years
+113	28	Web Widgets	Two_to_five_years
+123	35	Open-Source Software in IP Telephony	Obsolete_before_Plateau
+127	38	Digital Ad Operations Platforms	Two_to_five_years
+127	38	Open-Source Communications	Less_than_two_years
+139	47	Cloud Advertising	Two_to_five_years
+142	49	Consumer Telematics	Five_to_10_years
+148	52	Consumer Digital Rights Management	Two_to_five_years
+148	52	In-Stream Video Ad Insertion	Less_than_two_years
+156	55	DOCSIS 3.0 Cable	Less_than_two_years
+161	56	Interactive TV	Two_to_five_years
+161	56	Mashups	Less_than_two_years
+161	56	Web Analytics	Less_than_two_years
+166	57	Mobile Search	Less_than_two_years
+172	58	B2B Web Services	Less_than_two_years
+179	59	Navigation Solutions	Two_to_five_years
+187	60	Location-Aware Applications	Less_than_two_years
+187	60	Mobile Application Development Platforms	Less_than_two_years
+187	60	Secure Email Gateway	Less_than_two_years

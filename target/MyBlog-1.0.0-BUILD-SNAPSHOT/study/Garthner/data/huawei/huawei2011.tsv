@@ -1,0 +1,41 @@
+tnum	tval	tname	tplateau
+19	33	WiMAX 802.16m	Obsolete_before_Plateau
+20	38	LTE-A	More_than_10_years
+22	48	VDSL2 Enhancements	Two_to_five_years
+28	78	Mobile QoS for LTE	Two_to_five_years
+30	88	Convergent Communications Advertising Platforms (CCAPs)	Five_to_10_years
+32	93	Rich Communication Suite	Two_to_five_years
+32	93	WDM-PON	Five_to_10_years
+35	98	Self-Organizing Networks	Two_to_five_years
+40	100	4G Standard	Five_to_10_years
+40	100	Integrated Policy and Charging Control Solutions	Two_to_five_years
+50	90	100 Gbps Transport	Two_to_five_years
+52	83	Data Deduplication	Two_to_five_years
+52	83	Mobile WLAN Access Points	Two_to_five_years
+53	79	Mobile Subscriber Data Management	Two_to_five_years
+56	62	"Business Intelligence Platforms, China"	Five_to_10_years
+56	62	LTE in China	Two_to_five_years
+57	56	TD-LTE	Five_to_10_years
+58	51	Next-Generation Service Delivery Platforms	Two_to_five_years
+63	35	IMS	Two_to_five_years
+66	29	10G-PON	Five_to_10_years
+68	26	Network Sharing	Two_to_five_years
+83	13	IPv6	Two_to_five_years
+88	14	Long Term Evolution	Two_to_five_years
+93	16	Embedded Wireless Cellular Modems	Less_than_two_years
+93	16	MPLS-TP	Two_to_five_years
+97	18	40 Gbps Transport	Less_than_two_years
+97	18	Blade Servers	Two_to_five_years
+100	20	Femtocells	Less_than_two_years
+107	24	Universal Queue Management	Two_to_five_years
+123	35	Convergent Charging	Five_to_10_years
+123	35	FTTH	Two_to_five_years
+132	42	HSPA+	Less_than_two_years
+132	42	TD-SCDMA	Obsolete_before_Plateau
+132	42	VDSL2	Less_than_two_years
+142	49	Contact Center All-in-One Suites	Less_than_two_years
+142	49	OTN and GMPLS/ASON	Less_than_two_years
+161	56	Next-Generation Voice	Less_than_two_years
+166	57	Contact Centers: IP-Based	Less_than_two_years
+172	58	ROADMs	Less_than_two_years
+172	58	Virtual Contact Centers	Less_than_two_years

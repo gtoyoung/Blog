@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<style>
+</style>
+
+<head>
+    <!--
+   <link rel="stylesheet" href="css/arc.css"/>
+    <script src="js/arc.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+-->
+    <link rel="stylesheet" href="test.css" />
+    <script type="text/javascript">
+        function open_click(){
+            document.getElementById('light').style.display='block';
+            document.getElementById('fade').style.display='block'
+        }
+        function close_click(){
+            document.getElementById('light').style.display='none';
+            document.getElementById('fade').style.display='none'
+        }
+    </script>
+</head>
+
+<body>
+    <p>This is the main content. To display a lightbox click
+        <a onclick="open_click()">here</a>
+    </p>
+    <div id="light" class="white_content">This is the lightbox content. <a onclick="close_click()">Close</a>
+    </div>
+    <div id="fade" class="black_overlay"></div>
+
+</body>
+
+</html>

@@ -1,0 +1,75 @@
+tnum	tval	tname	tplateau
+11	8	Virtual Personal Assistants	Five_to_10_years
+14	13	Cognizant Computing	Five_to_10_years
+16	18	Smart Machines in Government	Five_to_10_years
+17	23	Video Chat	Five_to_10_years
+18	28	Connected Home	Five_to_10_years
+20	38	Embedded Software and Systems Security	More_than_10_years
+21	43	Cloud/Client Computing	Five_to_10_years
+22	48	Personal Wellness Records	Five_to_10_years
+22	48	Proactive Search	Five_to_10_years
+23	53	Education Tablet	Five_to_10_years
+23	53	Transmedia	Five_to_10_years
+23	53	Wireless Video ? 60GHz	Five_to_10_years
+24	58	Instruction Set Virtualization	Five_to_10_years
+27	73	Transactional Ad Units	Two_to_five_years
+28	78	Bring Your Own App (BYOA)	Two_to_five_years
+29	83	Context-Enriched Content	Five_to_10_years
+29	83	Personal Cloud Entertainment Platforms	Five_to_10_years
+30	88	Embedded Hypervisor	Five_to_10_years
+35	98	Context Delivery Architecture	Five_to_10_years
+35	98	Sensor Fusion	Two_to_five_years
+40	100	EMM/MDM Security Capabilities	Five_to_10_years
+40	100	Natural-Language Question Answering	Five_to_10_years
+40	100	Remote Commerce Emulation for Proximity Payments	Two_to_five_years
+45	98	Internet Radio	Two_to_five_years
+45	98	Mobile Sports and Fitness	Two_to_five_years
+48	95	Context-Enriched Services	Two_to_five_years
+48	95	UX Tools	Five_to_10_years
+49	93	Mobile Virtual Assistants	Five_to_10_years
+50	90	Media Tablets	Less_than_two_years
+50	90	Vehicle Information Hub	Two_to_five_years
+53	79	Mobile Application Security Testing	Two_to_five_years
+54	73	Social TV	Five_to_10_years
+55	68	Connected Televisions	Five_to_10_years
+56	62	Consumer Mobile Apps	Two_to_five_years
+56	62	Mobile Device Integration Into Automobiles	Two_to_five_years
+56	62	Personal Cloud	Two_to_five_years
+56	62	Unwired Music Systems for the Home	Two_to_five_years
+57	56	Mobile Technology for Manufacturing Operations	Two_to_five_years
+58	51	Digital Wallet Solutions	Two_to_five_years
+58	51	In-App Advertising	Two_to_five_years
+59	46	Internet TV	Five_to_10_years
+59	46	Ultrabooks	Two_to_five_years
+63	35	Over-the-Top Set-Top Boxes	Two_to_five_years
+63	35	User Authentication to Mobile Devices	Five_to_10_years
+66	29	Retail Mobile Shopping (Nonpayments)	Two_to_five_years
+73	20	HTML5	Five_to_10_years
+88	14	Automotive HMI Technologies	Five_to_10_years
+88	14	BYOD	Two_to_five_years
+88	14	Ultra-Mini-PCs	Less_than_two_years
+88	14	Workforce Resilience	Two_to_five_years
+93	16	IoT Intelligent Monitoring and Management	Less_than_two_years
+93	16	Location-Based Advertising/Location-Based Marketing	Five_to_10_years
+97	18	Glonass	Two_to_five_years
+97	18	Mobile Learning Smartphones	Two_to_five_years
+100	20	Gesture Control	Two_to_five_years
+107	24	Biometric Payment Systems	Two_to_five_years
+107	24	Mobile Content Creation	Two_to_five_years
+113	28	All-in-One PCs	Less_than_two_years
+113	28	E-Textbook	Two_to_five_years
+119	32	Broadband for All	Five_to_10_years
+123	35	Automotive Speech Recognition	Two_to_five_years
+127	38	Continuous Data Protection	Less_than_two_years
+127	38	Mobile Advertising	Two_to_five_years
+132	42	Biometric Authentication Methods	Two_to_five_years
+132	42	Connected Portable Media Players	Less_than_two_years
+132	42	Mobile Advertising For Automotive	Five_to_10_years
+136	45	Personal Cloud Synchronization and Sharing	Less_than_two_years
+148	52	Native Mobile Development	Less_than_two_years
+156	55	Consumer Telematics	Five_to_10_years
+161	56	Mobile Technology for Utilities	Two_to_five_years
+161	56	Tablets	Less_than_two_years
+166	57	Speech Recognition	Less_than_two_years
+187	60	Consumer Digital Rights Management	Less_than_two_years
+187	60	Navigation Solutions	Less_than_two_years

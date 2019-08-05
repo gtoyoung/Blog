@@ -1,0 +1,1001 @@
+tnum	tval	tname	tplateau
+22	48	Weightless	Five_to_10_years
+20	38	Open-Source Telecom Operations Management Systems	More_than_10_years
+187	60	Passive RFID for Utilities	Less_than_two_years
+32	93	Autonomous Vehicles	Five_to_10_years
+30	88	Embedded Hypervisor	Five_to_10_years
+40	100	IT DRM Exercising	Two_to_five_years
+55	68	Fuel Cells for the Data Center	Five_to_10_years
+26	68	oneM2M	Two_to_five_years
+57	56	Enterprise Solutions Architecture	More_than_10_years
+127	38	IHE XDS.b	Two_to_five_years
+19	33	Patient Engagement and Persuasion Analytics	More_than_10_years
+53	79	SaaS Supply Chain Planning	Five_to_10_years
+56	62	Loyalty Point Marketplaces	Two_to_five_years
+32	93	Cloud Data Protection Gateways	Five_to_10_years
+57	56	Digital Offers	Two_to_five_years
+30	88	Kanban for Programs	Two_to_five_years
+30	88	E-Waste Regulation in China	More_than_10_yearsa
+27	73	Geothermal Cooling for Data Centers	Five_to_10_years
+83	13	Bank Digital Safety Deposit Boxes	Two_to_five_years
+55	68	Penetration Testing Tools	Two_to_five_years
+25	63	In-Memory Computing (IMC)-Optimized Servers	Five_to_10_years
+107	24	Mobile CDN	Less_than_two_years
+32	93	Organic/Polymer Solar Cells	More_than_10_years
+100	20	In-Memory Analytics	Less_than_two_years
+22	48	Nanomedicine	Five_to_10_years
+18	28	Patient Decision Aids (Healthcare Provider)	More_than_10_years
+56	62	Analytical In-Memory DBMS	Two_to_five_years
+32	93	Speech-to-Speech Translation	Five_to_10_years
+119	32	Merchandising and Category Optimization	Two_to_five_years
+88	14	Contact Center as a Service	Two_to_five_years
+35	98	Enterprise Integration PaaS (iPaaS)	Two_to_five_years
+40	100	BPM for Customer Service and Support	Two_to_five_years
+54	73	Advanced Distribution Management Systems	Five_to_10_years
+119	32	Enterprise Workforce Management	Two_to_five_years
+35	98	BPO Strategy for Healthcare Payers	Five_to_10_years
+61	40	Enterprise File Synchronization and Sharing (EFSS)	Two_to_five_years
+30	88	Cloud Security Standards	Two_to_five_years
+28	78	Digital Marketing	Two_to_five_years
+29	83	Server-Dedicated GPUs	Two_to_five_years
+28	78	Mobile Impact on EA	Five_to_10_years
+58	51	Cross-Platform Structured Data Archiving	Two_to_five_years
+29	83	Entity Resolution and Analysis	Five_to_10_years
+51	87	Facilities Energy Management	Two_to_five_years
+113	28	R&D Analytics	Two_to_five_years
+19	33	Machine Learning Server Hardware	Five_to_10_years
+53	79	Cloud-Based Disaster Recovery Services	Two_to_five_years
+187	60	802.11k-2008	Less_than_two_years
+56	62	Head-Mounted Displays	Five_to_10_years
+174	58	Ultra-High-Speed Broadband Internet	Less_than_two_years
+49	93	Consumption Analytics	Five_to_10_years
+29	83	Predictive Analytics	Two_to_five_years
+21	43	Internal Hackathons	Two_to_five_years
+142	49	Unified Communications and Collaboration	Two_to_five_years
+127	38	Continuous Data Protection	Less_than_two_years
+100	20	Health and Safety Applications	Two_to_five_years
+50	90	Privacy Management Tools	Two_to_five_years
+25	63	DevOps	Five_to_10_years
+58	51	CRM	Two_to_five_years
+14	13	Commercial Banking APIs	Two_to_five_years
+100	20	Portal-Less Portals	Two_to_five_years
+168	57	Scan-to-Workflow	Less_than_two_years
+180	59	Basic Personal Financial Management	Less_than_two_years
+113	28	Advanced Driver Assistance Systems	Five_to_10_years
+18	28	Crowdfunding	More_than_10_years
+32	93	Intelligent Business Process Management Suite	Two_to_five_years
+19	33	Vertical Business Process Outsourcing	Five_to_10_years
+18	28	Operational Intelligence Platforms	Five_to_10_years
+142	49	Virtual I/O	Less_than_two_years
+28	78	Easy Content Management	Five_to_10_years
+18	28	Business Productivity Teams	Five_to_10_years
+27	73	Design Thinking in Banking	Five_to_10_years
+51	87	Energy Storage (Renewable Integration)	Five_to_10_years
+174	58	Game Consoles as Media Hubs	Less_than_two_years
+25	63	Social Media Analytics	Five_to_10_years
+61	40	Phasor Measurement Units	Five_to_10_years
+56	62	Personal Cloud	Two_to_five_years
+30	88	Mobile Asset Optimization	Five_to_10_years
+127	38	Load Forecasting	Two_to_five_years
+25	63	IT/OT Convergence and Alignment in Oil and Gas	Five_to_10_years
+32	93	Information Governance Organizational Structures	Five_to_10_years
+61	40	Business Service Management Tools	Five_to_10_years
+107	24	Real-Time Collaboration Centers	Two_to_five_years
+58	51	Enterprise IP Management	Five_to_10_years
+26	68	P&C Insurance Policy Administration/Management SaaS	Five_to_10_years
+18	28	Phantom Robotic Process Automation	Two_to_five_years
+19	33	Terahertz Waves	More_than_10_years
+132	42	3D Scanners	Two_to_five_years
+113	28	Care Management Analytics for U.S. Healthcare Payers	Two_to_five_years
+20	38	Carbon Markets	More_than_10_years
+119	32	IMS	Less_than_two_years
+22	48	3D Bioprinting Systems	Five_to_10_years
+16	18	Marketing Talent Communities	Five_to_10_years
+123	35	2D Bar Code Marketing	Two_to_five_years
+25	63	Data Visualization in Merchandising	Two_to_five_years
+132	42	RFID (Item Level)	Less_than_two_years
+40	100	Natural-Language Question Answering	Five_to_10_years
+30	88	Meter Data Analytics	Five_to_10_years
+55	68	IT Vendor Risk Management	Two_to_five_years
+18	28	BYOS ? Build Your Own Server	Five_to_10_years
+57	56	Emerging Data Storage Protection Schemes	Five_to_10_years
+32	93	Content Curation Platforms	Two_to_five_years
+56	62	Virtual Machine Backup and Recovery	Two_to_five_years
+107	24	Telestroke	Two_to_five_years
+119	32	IT Event Correlation and Analysis Tools	Two_to_five_years
+107	24	Next-Generation Telematics Protocol	Less_than_two_years
+24	58	Developer and Partner Ecosystems	Two_to_five_years
+66	29	Social Network Payment System	Two_to_five_years
+51	87	Disruptive Financial Intermediaries	Five_to_10_years
+21	43	LED Lighting	Five_to_10_years
+88	14	Feature Phone Mobile Banking (Africa)	Two_to_five_years
+51	87	Application-Specific Data Management Solutions	Two_to_five_years
+142	49	Managed Print Services	Two_to_five_years
+35	98	Peer-to-Peer Foreign Exchange Marketplace	Two_to_five_years
+19	33	Environmental, Health and Safety Applications	Five_to_10_years
+17	23	Ecolabels and Footprints	Five_to_10_years
+63	35	Social Media Distribution	Two_to_five_years
+20	38	Remote Mobile OS	Five_to_10_years
+23	53	Chip Implants for Nonmedical Applications	More_than_10_years
+11	8	Agile Public Procurement	Five_to_10_years
+93	16	Hydrocarbon Accounting Platforms	Two_to_five_years
+180	59	Commercial Telematics	Less_than_two_years
+97	18	eTMF	Two_to_five_years
+54	73	Digital Currencies	Two_to_five_years
+174	58	Integrated Infrastructure Support	Less_than_two_years
+57	56	Succession Management	Two_to_five_years
+27	73	Internal CSB	Five_to_10_years
+83	13	Multiple-Work-Stream P2P Solutions	Two_to_five_years
+61	40	Semantic Interoperability/Healthcare	Five_to_10_years
+40	100	Smart City Framework	Five_to_10_years
+21	43	Customer Journey Analytics	More_than_10_years
+66	29	CSR Reporting	Two_to_five_years
+119	32	Sales Contract Management	Two_to_five_years
+61	40	In-Memory Data Grids	Two_to_five_years
+49	93	Desktop Virtualization	Five_to_10_years
+123	35	Enterprise Content Management Suites	Less_than_two_years
+100	20	Identity Governance and Administration	Two_to_five_years
+100	20	Federated SOA	Two_to_five_years
+18	28	Uplift Modeling	Five_to_10_years
+51	87	Collaborative Commerce	Two_to_five_years
+29	83	Private PaaS	Two_to_five_years
+83	13	Software Composition Analysis	Two_to_five_years
+16	18	Social Media Risk Management	Five_to_10_years
+132	42	MISRA C 2012	Two_to_five_years
+40	100	Sustainable Sourcing and Procurement	Five_to_10_years
+113	28	Universal Queue Management	Two_to_five_years
+28	78	PPM for Architecture, Engineering and Construction	Five_to_10_years
+132	42	Fraud Detection	Less_than_two_years
+35	98	Data Management Platforms (Advertising)	Two_to_five_years
+50	90	Mobility in Oil and Gas	Five_to_10_years
+136	45	Server Virtual I/O	Less_than_two_years
+54	73	Social Analytics	Two_to_five_years
+161	56	Strong Authentication for Enterprise Access	Two_to_five_years
+52	83	In-Memory Database Management Systems	Two_to_five_years
+61	40	Externalized Authorization Management	Two_to_five_years
+23	53	Alumni CRM	Five_to_10_years
+55	68	Open-Source E-Commerce Software	Five_to_10_years
+28	78	Mobile Containers	Two_to_five_years
+17	23	Limited Disclosure Technology	More_than_10_years
+32	93	Information Capabilities Framework	Five_to_10_years
+40	100	Lean Portals	Two_to_five_years
+32	93	Post-PC ERP	Five_to_10_years
+187	60	Voice-Directed Picking in Warehouse Management	Less_than_two_years
+83	13	Mobile Cloud	Two_to_five_years
+97	18	E-Collage	Less_than_two_years
+127	38	3D Printing Service Bureaus	Two_to_five_years
+30	88	Virtual Storage Appliance	Five_to_10_years
+58	51	Business Intelligence and Analytics Platforms	Five_to_10_years
+35	98	Operational In-Memory DBMS	Two_to_five_years
+30	88	Business Capability Modeling for Telecom	Two_to_five_years
+56	62	Component-Based Financial Services Solutions	Five_to_10_years
+55	68	Cloud-Based CEC	Two_to_five_years
+54	73	Plug-In Hybrid Electric Vehicles/Electric Vehicles	Five_to_10_years
+29	83	Mobile Customer Interaction Channel	Five_to_10_years
+29	83	Protected Mobile Browsers	Two_to_five_years
+27	73	Takaful Solutions	Five_to_10_years
+25	63	Unvetted Crowdsourced Community	Five_to_10_years
+83	13	Data Disposal Tools For Mobile Devices	Two_to_five_years
+78	15	Ethernet Switching Fabric	Two_to_five_years
+53	79	Security Intelligence	Five_to_10_years
+29	83	Unified Communications as a Service	Two_to_five_years
+48	95	Multivendor WLAN Controller Protocols	Two_to_five_years
+25	63	IT/OT Skilled Workforce	Two_to_five_years
+132	42	Server Repurposing	Two_to_five_years
+35	98	Application Services Governance	Two_to_five_years
+48	95	Social Content	Two_to_five_years
+100	20	DSL Vectoring/G.fast	Two_to_five_years
+49	93	Workforce Analytics	Five_to_10_years
+30	88	EU Data Protection Regulation	Two_to_five_years
+148	52	Bare-Metal Restore	Less_than_two_years
+52	83	Test Data Management	Two_to_five_years
+107	24	Application-to-Application Password Management Tools	Two_to_five_years
+55	68	Distribution Management Solutions	Two_to_five_years
+54	73	Mobile Self-Organizing Networks	Less_than_two_years
+61	40	Digital Manufacturing	Five_to_10_years
+63	35	Multicore Programming	Two_to_five_years
+66	29	NFC Payment	Five_to_10_years
+187	60	Dynamic Application Security Testing	Less_than_two_years
+57	56	Sales Force Automation	Two_to_five_years
+93	16	Multichannel Master Data Management for Retail	More_than_10_years
+88	14	Financial Governance Applications	Two_to_five_years
+24	58	Liquid Submersion Cooling	Five_to_10_years
+100	20	Social Networking	Less_than_two_years
+21	43	Data Lakes	Five_to_10_years
+93	16	Real-Time SPC Applications	Obsolete_before_Plateau
+97	18	Energy Storage (Grid Support)	Five_to_10_years
+168	57	HR Reporting	Less_than_two_years
+187	60	Mobile Consumer Remote Deposit	Less_than_two_years
+26	68	Deep Learning	Five_to_10_years
+61	40	Advanced Metering Infrastructure	Two_to_five_years
+21	43	Energy Efficiency Program Management	Five_to_10_years
+127	38	Software-as-a-Service Supply Chain Execution	Five_to_10_years
+139	47	Marketing Service Providers	Less_than_two_years
+156	55	MRM: Marketing Asset Management	Less_than_two_years
+63	35	Open-Source Data Integration Tools	Two_to_five_years
+78	15	Multichannel Order Management	Five_to_10_years
+100	20	Context-Aware Security	Less_than_two_years
+23	53	Home and Consumer Energy Management Solutions	More_than_10_years
+51	87	Cloud-Based Grid Computing	Less_than_two_years
+66	29	Mobility in Manufacturing Operations	Two_to_five_years
+136	45	MOST	Less_than_two_years
+30	88	Smart Advisors	Five_to_10_years
+29	83	IMC-Enabled Packaged SCM Applications	Two_to_five_years
+48	95	UX Tools	Five_to_10_years
+59	46	Internet TV	Five_to_10_years
+66	29	Billing and Collections Management Solutions	Two_to_five_years
+180	59	Process Control and Industrial Automation	Less_than_two_years
+23	53	3D Printing and Supply Chain	Five_to_10_years
+132	42	Lights-Out Recovery Operations Management	Less_than_two_years
+93	16	IPv6	Five_to_10_years
+16	18	Information Valuation and Infonomics	More_than_10_years
+187	60	Stateful Firewalls	Less_than_two_years
+30	88	High-Temperature Servers	Two_to_five_years
+97	18	Hosted Contact Center	Two_to_five_years
+73	20	Master Data Management for Consumer Goods	More_than_10_years
+56	62	High-Assurance Hypervisors	Five_to_10_years
+127	38	In-Rack Cooling	Less_than_two_years
+49	93	Gamification in Banking	Two_to_five_years
+161	56	Internal Peer-to-Peer Communities	Less_than_two_years
+58	51	Contact Center Workforce Optimization	Five_to_10_years
+156	55	Thin Provisioning	Less_than_two_years
+23	53	Digital Marketing Hubs	Five_to_10_years
+21	43	Consumer Goods In-Store Monitoring Analytics	Five_to_10_years
+52	83	Care Coordination Applications	Two_to_five_years
+123	35	Usage-Based Insurance Solutions	Five_to_10_years
+123	35	BYOD	Two_to_five_years
+56	62	MOOC	Obsolete_before_Plateau
+49	93	Innovation Management Technology for Product Development	Five_to_10_years
+40	100	Enterprise Metadata Management	More_than_10_years
+50	90	Virtual Machine Resilience	Two_to_five_years
+55	68	COBIT	More_than_10_years
+29	83	Open Microcredentials	Five_to_10_years
+7	5	Bioacoustic Sensing	More_than_10_years
+54	73	Dynamic Data Masking	Five_to_10_years
+113	28	Rich Communication Suite	Less_than_two_years
+56	62	IaaS+	Two_to_five_years
+63	35	Drive-by-Wire	Five_to_10_years
+51	87	Model Managers	Two_to_five_years
+48	95	Global Consumer Tablet Banking	Less_than_two_years
+66	29	Video Analytics	Two_to_five_years
+48	95	Data Mining for Consumer Research	Two_to_five_years
+119	32	Sales Training Solutions	Two_to_five_years
+18	28	Finance and Accounting BPaaS	More_than_10_years
+93	16	Home Health Monitoring	Five_to_10_years
+27	73	Accountable Care Solutions for U.S. Healthcare Payers	Five_to_10_years
+35	98	Fabric-Based Computing	Two_to_five_years
+27	73	Augmented Reality	Five_to_10_years
+51	87	Big Data	Five_to_10_years
+35	98	Intelligent Business Operations	Two_to_five_years
+27	73	Machine Learning	Two_to_five_years
+174	58	Customer Relationship Management	Less_than_two_years
+66	29	Contact Center Performance Management	Two_to_five_years
+23	53	Transaction Controls Monitoring	Five_to_10_years
+40	100	LBSs in Automotive	Five_to_10_years
+16	18	Intercompany Multimodal Federation	Five_to_10_years
+28	78	Mobile Digital Payment Advisor	Two_to_five_years
+20	38	Microgrids	Five_to_10_years
+18	28	Workload Time and Location Shifting	Five_to_10_years
+48	95	Image Layering	Five_to_10_years
+40	100	Internet-Driven Financial Services	Five_to_10_years
+136	45	Accounts Payable BPO	Two_to_five_years
+142	49	User Administration/Provisioning	Two_to_five_years
+168	57	ePRO, E-Patient Diaries and eCOA	Less_than_two_years
+88	14	Data Center Infrastructure Management Tools	Two_to_five_years
+56	62	802.11ac Wave 1	Two_to_five_years
+35	98	Big Data in China	Five_to_10_years
+61	40	Wi-Fi Direct	Two_to_five_years
+29	83	Geospatial and Location Intelligence	Two_to_five_years
+142	49	AMOLED	Two_to_five_years
+32	93	Mobile Devices as ATM User Interfaces	Two_to_five_years
+148	52	Speech Recognition for Contact Center Applications	Less_than_two_years
+174	58	DOCSIS 3.0 and 3.1	Less_than_two_years
+51	87	Data Quality Tools	Five_to_10_years
+142	49	SIP Communications	Less_than_two_years
+28	78	Video Chat for Customer Service	Two_to_five_years
+136	45	Unified Price, Promotion and Markdown Optimization	Two_to_five_years
+68	26	OpenFlow	Two_to_five_years
+14	13	Cognitive Radio	More_than_10_years
+68	26	Ensemble Learning	Five_to_10_years
+59	46	IaaS Container Encryption	Two_to_five_years
+68	26	Business Rule Management Systems	Two_to_five_years
+19	33	P&C Data Platforms	Two_to_five_years
+83	13	Multinode Servers	Two_to_five_years
+58	51	Augmented Reality	Five_to_10_years
+51	87	Transcoderless and Software-Based Videoconferencing Infrastructure	Two_to_five_years
+50	90	Financial Services Industry Architecture Frameworks	Two_to_five_years
+29	83	Data Science	Two_to_five_years
+127	38	Renewable Energy PPA	Less_than_two_years
+61	40	Hypervisor Security Protection	Two_to_five_years
+187	60	3D Flat-Panel TVs and Displays	Less_than_two_years
+168	57	Idea Management	Less_than_two_years
+56	62	Private Cloud Computing	Two_to_five_years
+53	79	Supply Planning	Five_to_10_years
+29	83	UXPs	Five_to_10_years
+63	35	Storage Cluster File Systems	Five_to_10_years
+93	16	Virtual Worlds	Five_to_10_years
+26	68	MDM of HR Data Solutions	Obsolete_before_Plateau
+49	93	Social Commerce for Multichannel Retail	Two_to_five_years
+35	98	Cloud Computing	Two_to_five_years
+23	53	Operational Intelligence for Upstream	Two_to_five_years
+21	43	Federated Service Desk for CSB	Five_to_10_years
+29	83	Machine Learning for Communications Service Providers	Five_to_10_years
+148	52	Public-Key Operations	Two_to_five_years
+54	73	Data Center Infrastructure Management Tools	Two_to_five_years
+52	83	Enterprise Data Governance	Five_to_10_years
+35	98	Cost-to-Serve Analysis	Five_to_10_years
+50	90	Social Procurement Tools	Five_to_10_years
+40	100	Consumer Energy Storage	More_than_10_years
+132	42	IT Infrastructure Utility	Less_than_two_years
+45	98	Nanotube Electronics	Five_to_10_years
+21	43	Cloud Services Brokerage for ERP	Five_to_10_years
+27	73	Agile Workplace Solutions	Five_to_10_years
+107	24	Microsoft Resource Access Administration	Two_to_five_years
+51	87	Application PaaS (aPaaS)	Two_to_five_years
+28	78	Mobile-Apt User Authentication Methods	Two_to_five_years
+49	93	Consumer Prediction Markets	Five_to_10_years
+56	62	Social Media Compliance	Two_to_five_years
+45	98	IT GRCM	Five_to_10_years
+50	90	IT Service Catalog Tools	Five_to_10_years
+50	90	Life Insurance Closed-Book BPO	Two_to_five_years
+55	68	Mobile HCM	Five_to_10_years
+136	45	External Storage Virtualization	Two_to_five_years
+187	60	Blu-ray Devices for Consumers	Less_than_two_years
+161	56	REST	Less_than_two_years
+24	58	Real-Time Parking	Five_to_10_years
+63	35	Genivi Alliance	Two_to_five_years
+88	14	Direct CSP Billing	Two_to_five_years
+11	8	Carbon Capture and Sequestration	More_than_10_years
+49	93	802.11ai	Five_to_10_years
+88	14	Open-Source Middleware Suites	Two_to_five_years
+30	88	Citizen Data Vaults	More_than_10_years
+52	83	Business Analytics Services	Five_to_10_years
+32	93	Contact Center Interaction Analytics	More_than_10_years
+78	15	Digital Subscription Management	Two_to_five_years
+56	62	Electronic Bill Presentment and Payment For Insuance	Less_than_two_years
+52	83	Enterprise Mobile App Stores	Two_to_five_years
+22	48	IP Money	Five_to_10_years
+40	100	Spin Transfer Torque Magnetic Random-Access Memory	Five_to_10_years
+119	32	Location-Aware Applications	Five_to_10_years
+23	53	Smart Robots	Five_to_10_years
+14	13	MintChip	Obsolete_before_Plateau
+30	88	Social Media Records Management	Five_to_10_years
+25	63	Multienterprise Grid Functionality	Five_to_10_years
+22	48	Wireless Electric Vehicle Charging	More_than_10_years
+55	68	Life Cycle Assessment Tools	Five_to_10_years
+107	24	EU Cookie Rules	Less_than_two_years
+18	28	IoT Platform	Five_to_10_years
+56	62	Enterprise Endpoint Backup	Two_to_five_years
+66	29	Device-Embedded Biometric Authentication	Five_to_10_years
+187	60	Web Analytics	Less_than_two_years
+107	24	Electronic Shelf Labels	Five_to_10_years
+59	46	Information Stewardship	Two_to_five_years
+61	40	Organizational Change	Five_to_10_years
+19	33	Quantified Self	Five_to_10_years
+24	58	Hybrid Integration Platform	Five_to_10_years
+132	42	Graphics Card Application Acceleration	Less_than_two_years
+113	28	Night Vision Enhancement Systems	Five_to_10_years
+119	32	Social Profiles	Less_than_two_years
+27	73	Digital Business	Five_to_10_years
+56	62	Dock Scheduling	Five_to_10_years
+88	14	Vehicle-Integrated Solar Panels	Five_to_10_years
+32	93	Physician Social Media	Five_to_10_years
+107	24	IC Subsystem Reuse	Two_to_five_years
+51	87	Cloud BPM	Two_to_five_years
+26	68	Application Release Automation	Five_to_10_years
+68	26	Mobile BI	Two_to_five_years
+48	95	Master Data Management	Five_to_10_years
+83	13	Fuel Cells	Five_to_10_years
+16	18	Smart Machines in Government	Five_to_10_years
+93	16	E-Clinical	Two_to_five_years
+107	24	Digital Magazines	Two_to_five_years
+48	95	Cryptocurrencies	Five_to_10_years
+100	20	Budget and Goals PFM	Less_than_two_years
+93	16	IoT Intelligent Monitoring and Management	Less_than_two_years
+29	83	Data Quality for Purchased Parts	Two_to_five_years
+21	43	Human Augmentation	More_than_10_years
+49	93	Linear Tape File System (LTFS)	Five_to_10_years
+88	14	Low-Concentration Photovoltaics	Two_to_five_years
+113	28	SCM BPaaS	Five_to_10_years
+113	28	Mobile Ticketing	Two_to_five_years
+20	38	Solid-State DIMMs	Two_to_five_years
+56	62	EHR-Based Clinical Studies	Five_to_10_years
+32	93	Life Cycle Assessment Tools and Sustainable Design PLM	Two_to_five_years
+22	48	Decisions and Recommendations as a Service	Five_to_10_years
+66	29	Public Cloud Storage	Two_to_five_years
+25	63	Internet of Things	Five_to_10_years
+40	100	Social for Sales	Two_to_five_years
+168	57	802.11r-2008	Less_than_two_years
+29	83	PPM for New Product Development	Five_to_10_years
+107	24	Virtual Focus Groups	Two_to_five_years
+59	46	Frameworx ? an Evolution of NGOSS	Two_to_five_years
+30	88	Portal PaaS	Five_to_10_years
+28	78	Over-the-Air Software Updates	Five_to_10_years
+54	73	PIVAS ? Synchronization Process	Two_to_five_years
+97	18	DMZ Virtualization	Two_to_five_years
+107	24	Electronic Underwriting Systems	Two_to_five_years
+22	48	Mobile Platform Health Checks	Five_to_10_years
+56	62	Biomass Electricity Generation	Five_to_10_years
+88	14	Government Shared Services	Two_to_five_years
+16	18	Hybrid Investment Data Management Solutions	Five_to_10_years
+107	24	Resistance Phase-Change Memory	Two_to_five_years
+28	78	Sustainability Business Operations Consulting Services in China	Two_to_five_years
+11	8	Role-Centered Workflow	Five_to_10_years
+107	24	Java-Based POS Software	Five_to_10_years
+18	28	Read/Write Flash Caching	Five_to_10_years
+88	14	GS1 Healthcare (GDSN)	Five_to_10_years
+40	100	Remote Commerce Emulation for Proximity Payments	Two_to_five_years
+29	83	Mobile Customer Service Applications	Two_to_five_years
+23	53	Warehouse Resource Planning and Scheduling	More_than_10_years
+54	73	Integrated Network and Enterprise Resource Management	Five_to_10_years
+49	93	Strategic Digital Oil Field Solutions	Two_to_five_years
+113	28	Application Testing Services	Less_than_two_years
+68	26	Next-Generation Service Delivery Platforms	Two_to_five_years
+53	79	Learning Stack	Two_to_five_years
+107	24	MEMS Gyroscopes	Two_to_five_years
+18	28	Business Ecosystem Modeling	Two_to_five_years
+27	73	Managed Care and Institutional Selling Tools	Five_to_10_years
+32	93	Global, Integrated MRM	Five_to_10_years
+35	98	Quote-to-Card Solutions for U.S. Healthcare Payers	Two_to_five_years
+29	83	High-Performance Message Infrastructure	Two_to_five_years
+59	46	E-Services	Two_to_five_years
+45	98	Internet Radio	Two_to_five_years
+161	56	Enterprise Care Management Applications for U.S. Healthcare Payers	Two_to_five_years
+19	33	Virtual Store Research	Five_to_10_years
+20	38	Loyalty Marketing	Five_to_10_years
+16	18	Modular Smartphones and Tablets	Five_to_10_years
+18	28	Software License Optimization and Entitlement	More_than_10_years
+83	13	HL7 Infobutton, R1	Five_to_10_years
+52	83	Thermal Energy Storage	Five_to_10_years
+132	42	Handwriting Recognition	Two_to_five_years
+136	45	Personal Cloud Synchronization and Sharing	Less_than_two_years
+16	18	Sound-Wave-Based Payment System	Five_to_10_years
+113	28	Public Telematics and Intelligent Transportation Systems	More_than_10_years
+168	57	Tablet-Based E-Detailing	Less_than_two_years
+59	46	Project Management Certification	Obsolete_before_Plateau
+21	43	Open-Source Data Quality Tools	Five_to_10_years
+24	58	Outsourcers and SIs as CSBs	Two_to_five_years
+100	20	Gaze Control	Five_to_10_years
+132	42	Social Media Engagement Applications	Less_than_two_years
+97	18	Electronic Laboratory Notebook	Two_to_five_years
+132	42	Procurement Networks	Less_than_two_years
+28	78	Energy Harvesting Using Mechanical Vibrations	Five_to_10_years
+28	78	Key Opinion Leader Management	Five_to_10_years
+93	16	IT Asset Management Tools	Two_to_five_years
+100	20	Mobile Device Management for Healthcare Provider	Five_to_10_years
+30	88	CSB Integrated Billing	Two_to_five_years
+174	58	Consumer-Generated Media	Less_than_two_years
+28	78	Enterprisewide Carbon and Energy Management Software Applications	Five_to_10_years
+50	90	Online Data Compression	Five_to_10_years
+139	47	Digital Ad Operations Platforms	Two_to_five_years
+56	62	TMS Multimodal/International	Five_to_10_years
+21	43	Cloud/Client Computing	Five_to_10_years
+26	68	OLED Technology	Five_to_10_years
+26	68	Cloud UXP Services	More_than_10_years
+18	28	Mashware	Five_to_10_years
+35	98	Geographic Information Systems	Two_to_five_years
+21	43	PIVAS ? Tracking and Negotiation	Five_to_10_years
+97	18	Functional Business Process Outsourcing	Two_to_five_years
+18	28	Community Management	Five_to_10_years
+100	20	PIVAS ? Reward and Loyalty	Two_to_five_years
+123	35	Process Style: Content Collaboration	Less_than_two_years
+58	51	Entity Resolution and Analysis	Obsolete_before_Plateau
+139	47	Content-Aware DLP for Email	Two_to_five_years
+29	83	Energy Harvesting Using Specialized Photocells	Five_to_10_years
+50	90	Mobile Field Service Management	Two_to_five_years
+52	83	Social for CRM for Utilities	Two_to_five_years
+19	33	Programmatic Direct Advertising	Two_to_five_years
+32	93	Collaborative Authoring Tools	Five_to_10_years
+18	28	Internet of Things Impact on EA	Five_to_10_years
+100	20	Gesture Control	Two_to_five_years
+23	53	Personal Cloud	Five_to_10_years
+113	28	Mobile-Learning Low-Range/Midrange Handsets	Obsolete_before_Plateau
+63	35	Mobile VoIP	Two_to_five_years
+24	58	Sales Appraisal and Evaluation Management	Two_to_five_years
+56	62	MatrixSSL	Two_to_five_years
+30	88	Cloud-Optimized Application Design	Two_to_five_years
+11	8	Photonic Crystal Displays	Five_to_10_years
+139	47	Distribution Design Tools	Two_to_five_years
+48	95	Recorded Video Customer Service	Two_to_five_years
+40	100	Disaster Recovery Service-Level Management	Two_to_five_years
+180	59	Dashboards	Less_than_two_years
+78	15	ITIL	Five_to_10_years
+23	53	Media-Embedded Merchandising	Five_to_10_years
+156	55	Consumer Telematics	Five_to_10_years
+93	16	Electric Vehicles	More_than_10_years
+100	20	Emergency/Mass Notification Services	Two_to_five_years
+40	100	Mobile Print Applications	Two_to_five_years
+132	42	DDoS Defense	Two_to_five_years
+59	46	Cooling Management Systems	Two_to_five_years
+18	28	Advanced Anomaly Detection	Five_to_10_years
+23	53	Copy Data Management	Five_to_10_years
+132	42	IAM Consulting and System Integration Services	Less_than_two_years
+55	68	Gamification in Consumer Research	Two_to_five_years
+123	35	Data Federation/Virtualization	Two_to_five_years
+50	90	Networking IT and OT	Two_to_five_years
+57	56	Sales Analytics	Five_to_10_years
+40	100	Multichannel Merchandise Planning	Two_to_five_years
+16	18	Smart City Framework	Five_to_10_years
+187	60	Consumer Digital Rights Management	Less_than_two_years
+93	16	Manufacturing Network Design	Two_to_five_years
+27	73	Biochips	Five_to_10_years
+16	18	Predictive Underwriting Solutions	More_than_10_years
+73	20	Personal Health Record	Obsolete_before_Plateau
+27	73	Behavior-Driven Development	Five_to_10_years
+97	18	Silicon Thin-Film Solar Cells	Two_to_five_years
+18	28	Supply Chain Big Data Analytics	Five_to_10_years
+21	43	SaaS SIS	Five_to_10_years
+28	78	Digital Commerce	Two_to_five_years
+93	16	IT PMO	Five_to_10_years
+136	45	Advanced Analytics for Government	Less_than_two_years
+32	93	Content Marketing	Two_to_five_years
+51	87	Mobile Satellite Services	Five_to_10_years
+73	20	IT Risk Management Automation	Two_to_five_years
+23	53	Clinical Data Integration for U.S. Healthcare Payers	Five_to_10_years
+132	42	Environmental Monitoring and Control	Less_than_two_years
+11	8	Virtual Personal Assistants	Five_to_10_years
+174	58	Pharmacovigilance	Two_to_five_years
+28	78	Analytical In-Memory DBMS	Five_to_10_years
+27	73	Enterprise Laboratory Informatics	Five_to_10_years
+168	57	Mobile Data Protection	Two_to_five_years
+27	73	Corporate Sustainability Reporting Tools	Two_to_five_years
+35	98	Supply Chain Execution Convergence	Five_to_10_years
+18	28	Configurable Instrument Cluster	Five_to_10_years
+51	87	Managed Print Services	Five_to_10_years
+59	46	BPM-Enabled BPO	Two_to_five_years
+73	20	Introspection	Two_to_five_years
+100	20	Railcar Fleet Management Solutions	Two_to_five_years
+142	49	Ethernet Services	Less_than_two_years
+50	90	MFT PaaS	Two_to_five_years
+54	73	Social TV	Five_to_10_years
+40	100	Advanced Business Process Analytics	Two_to_five_years
+73	20	Storage Multitenancy	Two_to_five_years
+11	8	Digital Workplace Graph	Five_to_10_years
+45	98	OLED Lighting	Five_to_10_years
+66	29	Simulation and Test Data Management	Two_to_five_years
+93	16	Content-Aware Data Loss Prevention	Two_to_five_years
+28	78	Software-Defined Storage	Five_to_10_years
+14	13	Super Hi-Vision Systems	More_than_10_years
+66	29	NCCM Tools	Two_to_five_years
+40	100	PaaS Frameworks	Two_to_five_years
+35	98	IT/OT Convergence and Alignment	Five_to_10_years
+56	62	Bandwidth as Currency	Five_to_10_years
+113	28	RFID for Logistics and Transportation	Two_to_five_years
+88	14	Social Gaming Ad Networks	Obsolete_before_Plateau
+78	15	CFD Analysis	Two_to_five_years
+17	23	Real-Time Operational Intelligence	Five_to_10_years
+107	24	Database Audit and Protection	Two_to_five_years
+23	53	Collaborative Decision Making	Five_to_10_years
+61	40	Absorption (Nonelectric) Chillers	Two_to_five_years
+88	14	BYOD	Two_to_five_years
+53	79	Mobile Application Security Testing	Two_to_five_years
+97	18	Digital Barter Exchanges	Five_to_10_years
+22	48	Hadoop-Based Data Discovery	Five_to_10_years
+132	42	Database Encryption	Two_to_five_years
+27	73	Presence Federation	Five_to_10_years
+180	59	Process Data Historians	Less_than_two_years
+100	20	Customer Best Next Action	Less_than_two_years
+187	60	Work Area Recovery	Less_than_two_years
+139	47	PLM-Centric Team Collaboration	Two_to_five_years
+23	53	Social Magazines	Five_to_10_years
+21	43	Social Analytics	Two_to_five_years
+187	60	High-Speed Color Inkjet Printing	Less_than_two_years
+27	73	White-Box Switching	Five_to_10_years
+100	20	Indirect Procurement BPO	Two_to_five_years
+53	79	Mobile Collaboration Client	Two_to_five_years
+78	15	Mobile Subscriber Data Management	Two_to_five_years
+132	42	Application Obfuscation	Two_to_five_years
+97	18	System-on-Package	Two_to_five_years
+53	79	Cloud Storage Gateway	Two_to_five_years
+16	18	Voxel-Based Ecosystems	Five_to_10_years
+93	16	Website Experience Analytics	Two_to_five_years
+58	51	Scientific Text Analytics and Annotators	Two_to_five_years
+35	98	Integrated Systems: Stack	Two_to_five_years
+56	62	Application Performance Monitoring	Five_to_10_years
+57	56	Gamification	Five_to_10_years
+28	78	LiteOS	Two_to_five_years
+49	93	Mobile Virtual Assistants	Five_to_10_years
+27	73	Marketing Mix Optimization	Five_to_10_years
+97	18	Cloud/Web Platforms	Two_to_five_years
+52	83	Warehouse Control Systems	Five_to_10_years
+50	90	Crowdsourcing for Open Banking	Two_to_five_years
+35	98	Context Delivery Architecture	Five_to_10_years
+58	51	In-App Advertising	Two_to_five_years
+53	79	Compensation Management (Line Managers)	Two_to_five_years
+28	78	WAN Optimization as a Service	Two_to_five_years
+123	35	Integration Brokerage	Two_to_five_years
+49	93	3D Printing in Manufacturing Operations	Five_to_10_years
+123	35	Dynamic VOD TV Ads	Two_to_five_years
+113	28	All-in-One PCs	Less_than_two_years
+139	47	EHR-Integrated EDIS	Two_to_five_years
+83	13	Case-Based Reasoning	More_than_10_years
+73	20	MRM SaaS	Less_than_two_years
+66	29	Mobile Commercial Remote Deposit Capture	Less_than_two_years
+156	55	Healthcare Provider E-Visits	Less_than_two_years
+49	93	Digital Transformation Consulting	Five_to_10_years
+57	56	Eventually Consistent Data Management	Two_to_five_years
+23	53	Cloud-Based Data Identification and Enrichment Services	Five_to_10_years
+14	13	Smart Home Appliances	Five_to_10_years
+28	78	MEMS Displays	Five_to_10_years
+66	29	Mobile News Readers	Two_to_five_years
+29	83	Subscription Billing	Five_to_10_years
+180	59	Application Delivery Controller	Less_than_two_years
+56	62	Thermal/Concentrating Solar Power	Five_to_10_years
+20	38	Energy Harvesting Using Thermal Gradients	Five_to_10_years
+50	90	Processor Emulation	Five_to_10_years
+50	90	OpenGL ES	Two_to_five_years
+174	58	802.11n	Less_than_two_years
+40	100	Trusted Service Manager for NFC-Enabled Mobile Payment Systems	Two_to_five_years
+83	13	Multisourcing Service Integrator	Two_to_five_years
+14	13	Augmented-Human Staffing	More_than_10_years
+57	56	Unified Communications	Five_to_10_years
+27	73	Transactional Ad Units	Two_to_five_years
+50	90	Personal Health Management Tools ? Healthcare Providers	Five_to_10_years
+20	38	Automobile eCall	Five_to_10_years
+49	93	Social Marketing	Two_to_five_years
+29	83	Client-Side MVC	Five_to_10_years
+19	33	Building-Integrated PV Solar Systems	Five_to_10_years
+29	83	Intelligent Transportation Systems	Five_to_10_years
+17	23	Video Chat	Five_to_10_years
+93	16	SecaaS for Public Social Media	Less_than_two_years
+132	42	Continuous Integration	Less_than_two_years
+59	46	Digital Preservation of Research Data	Five_to_10_years
+14	13	Business Value Dashboard	More_than_10_years
+32	93	IT/OT Integration	Five_to_10_years
+97	18	Track and Trace for Life Sciences	Five_to_10_years
+32	93	3D Printing of Medical Devices	Two_to_five_years
+35	98	IT/OT Convergence in Manufacturing	Five_to_10_years
+54	73	Apps	Two_to_five_years
+142	49	Data Encryption Technologies, HDDs and SSDs	Two_to_five_years
+73	20	Embedded GUI	Five_to_10_years
+28	78	Mobile Application Development Platform Security Capabilities	Five_to_10_years
+49	93	Design Thinking	More_than_10_years
+48	95	Predictive Coding	Five_to_10_years
+83	13	Enterprise Manufacturing Intelligence	Two_to_five_years
+161	56	QR/Color Code	Less_than_two_years
+107	24	BCM Methodologies, Standards and Frameworks	Two_to_five_years
+168	57	Mobile Sales Force Automation for Orders/Inventory	Less_than_two_years
+50	90	Smart Fabrics	Five_to_10_years
+40	100	Communications Service Providers as Cloud Services Brokerages	Five_to_10_years
+21	43	In-Memory Application Servers	Five_to_10_years
+97	18	Distributed Versioning	Two_to_five_years
+97	18	Open-Source Content Management	Two_to_five_years
+83	13	Multiechelon Inventory Optimization	Two_to_five_years
+107	24	Product Portfolio and Program Management	Five_to_10_years
+23	53	Web-Scale Development	Five_to_10_years
+28	78	Bring Your Own App (BYOA)	Two_to_five_years
+30	88	Open APIs in CSPs' Infrastructure	Two_to_five_years
+100	20	Real-Time Customer Offer Engines for CSPs	Less_than_two_years
+27	73	Unstructured Process	Five_to_10_years
+19	33	Big Data and ERP	Five_to_10_years
+19	33	Private Cloud Communications	Two_to_five_years
+24	58	Consumer Goods E-Commerce	Five_to_10_years
+119	32	Earned Value Management	Five_to_10_years
+100	20	Dynamic Creative Optimization	Two_to_five_years
+27	73	Augmented Reality in Retail	Five_to_10_years
+35	98	Cloud Access Security Brokers	Two_to_five_years
+16	18	Employee Apps	Two_to_five_years
+161	56	Mobile Banking	Less_than_two_years
+168	57	Network DVR	Less_than_two_years
+49	93	Social Media	Two_to_five_years
+68	26	ICD-10 (U.S.)	Two_to_five_years
+57	56	Asset Performance Management	Five_to_10_years
+17	23	Managed Shadow IT	Five_to_10_years
+17	23	3D Photovoltaic Devices	Five_to_10_years
+56	62	Payment Architectural Frameworks	Two_to_five_years
+113	28	Label and Artwork Management	Two_to_five_years
+30	88	Managed Mobility Services	Five_to_10_years
+28	78	Commodity Trading and Risk Management	Five_to_10_years
+29	83	Personal Cloud Entertainment Platforms	Five_to_10_years
+28	78	Server-Side JavaScript	Five_to_10_years
+100	20	Fixed-Mobile Convergence: Enterprise	Five_to_10_years
+18	28	Application Services Communities	Five_to_10_years
+88	14	Mobile-Originated P2P Solutions (for Mature Payment Markets)	Two_to_five_years
+127	38	Teledermatology	Two_to_five_years
+30	88	Sustainability Consulting Services	Five_to_10_years
+17	23	General-Purpose Machine Intelligence	More_than_10_years
+29	83	Dynamic Discounting	Two_to_five_years
+180	59	Bluetooth in Automobiles	Less_than_two_years
+22	48	Personal Wellness Records	Five_to_10_years
+50	90	Natural Language Processing (Clinical Enterprise)	Two_to_five_years
+53	79	Telepharmacy	More_than_10_years
+66	29	Retail Mobile Shopping (Nonpayments)	Two_to_five_years
+97	18	Perioperative Charting and Anesthesia Documentation Within the EHR	Two_to_five_years
+32	93	Customer Management BPaaS	Five_to_10_years
+50	90	Interactive Application Security Testing	Five_to_10_years
+66	29	Microinverters	Less_than_two_years
+54	73	WLAN Outsourcing	Two_to_five_years
+148	52	Data Quality Tools	Less_than_two_years
+63	35	Data Warehouse Platform as a Service (dwPaaS)	Two_to_five_years
+50	90	Cloud Service Brokerage	Five_to_10_years
+113	28	Strategic CPM	Two_to_five_years
+100	20	Digital Out-of-Home	Two_to_five_years
+24	58	Product Innovation Platforms	Two_to_five_years
+20	38	Transportation Forecasting	More_than_10_years
+48	95	Smart Appliances	Five_to_10_years
+28	78	Kerfless Wafering	Five_to_10_years
+93	16	Project and Portfolio Management	Five_to_10_years
+156	55	Information Exchanges	Two_to_five_years
+73	20	Linked Data	Five_to_10_years
+26	68	On-Site, Location-Dependent Power Technologies	More_than_10_years
+19	33	Spark	Five_to_10_years
+139	47	Mobile Social Networks	Less_than_two_years
+55	68	Telematics	Five_to_10_years
+28	78	API Marketplaces	Two_to_five_years
+132	42	Blended Enterprise Architecture Approach	Less_than_two_years
+58	51	Integrated Gasification Combined Cycle	Five_to_10_years
+136	45	IP Service Assurance	Two_to_five_years
+45	98	Real-Time (Mobile-Synchronized) Route Optimization	Five_to_10_years
+23	53	Open-Source Banking Systems	More_than_10_years
+45	98	Car-Sharing Services	Five_to_10_years
+11	8	Web Components	More_than_10_years
+119	32	Merchandise and Category Optimization	Two_to_five_years
+55	68	Distributed Generation	Five_to_10_years
+58	51	Private Cloud Computing	Two_to_five_years
+187	60	Storage Outsourcing	Less_than_two_years
+113	28	Customer Needs Management	Two_to_five_years
+11	8	SaaS Platform Security Management	More_than_10_years
+28	78	Digital Telepathology	Five_to_10_years
+48	95	EV Charging Infrastructure	More_than_10_years
+73	20	Cloud Computing	Two_to_five_years
+27	73	Muscle-Computer Interface	More_than_10_years
+100	20	Campaign Segmentation	Two_to_five_years
+97	18	Endpoint Protection Platform	Two_to_five_years
+58	51	Event-Driven Architecture for Government	Two_to_five_years
+28	78	Ensemble Interactions	More_than_10_years
+132	42	Enterprise Risk Management Consulting Services	Less_than_two_years
+100	20	Infrastructure as a Service (IaaS)	Two_to_five_years
+97	18	10G-PON	Two_to_five_years
+119	32	MES Applications	Two_to_five_years
+68	26	Business Process Management for U.S. Healthcare Payers	Five_to_10_years
+32	93	Agent Collaboration Tools	Two_to_five_years
+100	20	Biometric ATMs	Two_to_five_years
+51	87	Advocacy/Loyalty Marketing	Two_to_five_years
+20	38	Agency CRM SaaS	Two_to_five_years
+113	28	Knowledge Process Services	Five_to_10_years
+58	51	IMC-Enabled Application Infrastructure	Two_to_five_years
+19	33	Quantified Self	Five_to_10_years
+40	100	Home Energy Management/Consumer Energy Management	Five_to_10_years
+48	95	Application Portfolio Management	More_than_10_years
+30	88	Printer Server Consolidation	Two_to_five_years
+49	93	Model-Based Manufacturing	Five_to_10_years
+35	98	Smart Transportation	Two_to_five_years
+156	55	Utility GIS	Two_to_five_years
+97	18	Vendor-Neutral Archive	Five_to_10_years
+93	16	Cloud HPC/CaaS	Two_to_five_years
+73	20	Linux on RISC	Two_to_five_years
+29	83	MDM Professional Services	Five_to_10_years
+52	83	Tele-underwriting Platforms	Two_to_five_years
+123	35	Reusable Analog IP	Two_to_five_years
+127	38	RF Networks for Utility Field Applications	Two_to_five_years
+20	38	Virtual Assistants in Insurance	Five_to_10_years
+49	93	Enterprise Fraud and Misuse Management for U.S. Healthcare Payers	Five_to_10_years
+23	53	Cloud Adoption for U.S. Healthcare Payers	Five_to_10_years
+68	26	Data Integration Tool Suites	Five_to_10_years
+56	62	Mobile Device Integration Into Automobiles	Two_to_five_years
+48	95	Real-Time Store Monitoring Platform	Five_to_10_years
+107	24	Appliance-Based Replication	Two_to_five_years
+187	60	Energy Management Systems	Less_than_two_years
+168	57	Mobile DPI	Less_than_two_years
+56	62	Database Platform as a Service	Two_to_five_years
+49	93	CSP Network Intelligence	Two_to_five_years
+18	28	Business Models for Open Banking	Five_to_10_years
+100	20	Browser Client OS	Two_to_five_years
+28	78	Cloud Business Rule Services	Five_to_10_years
+16	18	IMC-Enabled MDM	Five_to_10_years
+148	52	Composite Applications	Less_than_two_years
+45	98	Consumer Smart Appliances	Five_to_10_years
+132	42	PPM for Professional Services	Two_to_five_years
+180	59	Consumer Needs-Based Segmentation	Less_than_two_years
+187	60	Web Access Management	Less_than_two_years
+93	16	Pico Projectors	Two_to_five_years
+40	100	Hadoop SQL Interfaces	Two_to_five_years
+40	100	EMM/MDM Security Capabilities	Five_to_10_years
+28	78	Open Compute	More_than_10_years
+28	78	Platform as a Service in China	Two_to_five_years
+88	14	Ultra-Mini-PCs	Less_than_two_years
+127	38	Traffic Data Services	Two_to_five_years
+24	58	Electrofluidic and Electrowetting Displays	Five_to_10_years
+63	35	Online Product Recommendation Engine	Two_to_five_years
+20	38	Customer Experience Management	Two_to_five_years
+100	20	Enterprise Mobility Application Services	Two_to_five_years
+136	45	SCOTA	Less_than_two_years
+48	95	Third-Party Risk Management	Two_to_five_years
+40	100	Social Analytics in China	Five_to_10_years
+18	28	Cross-Channel Analytics	More_than_10_years
+52	83	Microgrids	Five_to_10_years
+187	60	WAN Optimization Controllers	Less_than_two_years
+28	78	Nanography	Five_to_10_years
+52	83	Emissions Position Management	Five_to_10_years
+26	68	Digitalization	Two_to_five_years
+113	28	Connected Portable Navigation Devices	Obsolete_before_Plateau
+30	88	EA Road Maps	Two_to_five_years
+35	98	Comprehensive Performance Management Suites	Five_to_10_years
+63	35	Source-to-Settle Solutions	Five_to_10_years
+25	63	Optimization	Five_to_10_years
+55	68	Open Development Banking Platforms	Two_to_five_years
+107	24	Supplier Quality	Five_to_10_years
+18	28	Software-Defined Compute	Five_to_10_years
+107	24	Over-the-Road Carrier-Centric TMS Suites	Five_to_10_years
+52	83	Requirements Elicitation and Simulation	Two_to_five_years
+142	49	CAD-Centric Design Data Management	Less_than_two_years
+107	24	Interactive Patient Care Systems	Five_to_10_years
+52	83	Combined Heat and Power for the Data Center	Five_to_10_years
+56	62	Cloud Testing Tools and Service	Two_to_five_years
+119	32	Comprehensive CM BPO	Two_to_five_years
+53	79	Home-Area Network	Five_to_10_years
+59	46	Mobile-Originated Proximity Payment Systems	Two_to_five_years
+100	20	In-Store Self-Service: Customer-Facing Applications	Two_to_five_years
+136	45	Enterprise Internet Reputation Management	Less_than_two_years
+35	98	Sales Performance Management	Five_to_10_years
+25	63	In-Memory Computing Enabling Systems	Five_to_10_years
+22	48	Classroom 3D Printing	More_than_10_years
+53	79	VoIP Wireless WAN	Five_to_10_years
+35	98	Object Storage	Five_to_10_years
+161	56	SIEM	Less_than_two_years
+49	93	Synchronized Bills of Materials	Five_to_10_years
+28	78	Emotion Detection/Recognition	Five_to_10_years
+51	87	Multidomain MDM Solutions	Five_to_10_years
+18	28	Strategic Account Management	Two_to_five_years
+56	62	Mobile Over-the-Air Payment for India	Two_to_five_years
+50	90	MDM of Purchased Part Solutions	Obsolete_before_Plateau
+23	53	EA Consultancies	Two_to_five_years
+50	90	Crowdsourcing	Two_to_five_years
+22	48	Proactive Search	Five_to_10_years
+24	58	Application PaaS for Payments	Five_to_10_years
+50	90	Water Management	Two_to_five_years
+100	20	HRMS via SaaS	Two_to_five_years
+25	63	Climate-Driven Forecasting	Five_to_10_years
+35	98	Crowdtesting	Two_to_five_years
+107	24	Advanced Process Control	Two_to_five_years
+23	53	Next-Generation Portals	Less_than_two_years
+30	88	Clinical Communications and Collaboration	Five_to_10_years
+40	100	Public Web APIs	Two_to_five_years
+93	16	Risk Assessment for BCM	Two_to_five_years
+25	63	Multichannel Attribution	Five_to_10_years
+174	58	Business Rule Engines	Less_than_two_years
+123	35	Application Modernization Services	Two_to_five_years
+45	98	Wireless Power Charging	Two_to_five_years
+32	93	OLED TVs	Two_to_five_years
+156	55	Virtual Directories	Less_than_two_years
+61	40	Carbon Credits	More_than_10_years
+50	90	LTE-A	Two_to_five_years
+49	93	Location Intelligence	Two_to_five_years
+55	68	Integrated Policy and Charging Control Solutions	Two_to_five_years
+93	16	Branded Content Management	Two_to_five_years
+23	53	Digital Wallets in Retail	Five_to_10_years
+93	16	Location-Based Advertising/Location-Based Marketing	Five_to_10_years
+45	98	Claims Analytics	Two_to_five_years
+174	58	Remote ICU	Less_than_two_years
+127	38	Storage Tape Encryption	Less_than_two_years
+132	42	Sales Content Management	Less_than_two_years
+161	56	Electronic Bill Presentment and Payment	Less_than_two_years
+53	79	Business Analytics	Two_to_five_years
+52	83	Modular Self-Contained Aisle and Racking Systems	Two_to_five_years
+57	56	Next-Generation Core Administrative Systems for U.S. Healthcare Payers	Five_to_10_years
+16	18	Big Change	More_than_10_years
+100	20	Content Integration	Obsolete_before_Plateau
+168	57	Transmission and Distribution Network Engineering Analysis Tools	Two_to_five_years
+123	35	Electronic Batch Records	Two_to_five_years
+51	87	bpmPaaS	Two_to_five_years
+30	88	Privacy by Design	Two_to_five_years
+24	58	Hybrid Application Project Management	Five_to_10_years
+40	100	Cloud Management Platforms	Five_to_10_years
+50	90	Employee Use of Social Media in Government	Two_to_five_years
+68	26	ITIL	Five_to_10_years
+63	35	User Authentication to Mobile Devices	Five_to_10_years
+56	62	Software-Defined Networks	Five_to_10_years
+35	98	Predictive Modeling Solutions	Two_to_five_years
+168	57	Mobile Communications	Two_to_five_years
+48	95	Case Management Frameworks	Five_to_10_years
+93	16	Active RFID for Utilities	Two_to_five_years
+50	90	Healthcare-Payer-Oriented Patient-Centered Medical Home	Five_to_10_years
+35	98	Parallelization and Optimization Tools	Two_to_five_years
+32	93	C-CDA Release 1 (U.S.)	Two_to_five_years
+49	93	Cloud Computing Impact on EA	Five_to_10_years
+58	51	Transaction Banking 2.0 (Payments)	Five_to_10_years
+113	28	Industrial Energy Management	Two_to_five_years
+66	29	Enhanced E-Books	Two_to_five_years
+32	93	Intent-Driven Customer Systems	More_than_10_years
+21	43	Volumetric and Holographic Displays	More_than_10_years
+56	62	Social Commerce	Two_to_five_years
+20	38	Postmodern ERP/Hybrid ERP Support	Five_to_10_years
+35	98	Direct AC to Rack	Two_to_five_years
+48	95	Raspberry Pi	Two_to_five_years
+48	95	Business Process Governance	Five_to_10_years
+30	88	Customer Communications Management Solutions	Two_to_five_years
+54	73	ERP Infrastructure Utility	Two_to_five_years
+93	16	Vehicle-to-Vehicle Communications	Five_to_10_years
+48	95	Document Store Database Management Systems	Two_to_five_years
+49	93	Cloud-Based PLM Applications	Five_to_10_years
+21	43	Indoor Positioning	Two_to_five_years
+88	14	Teleretinal Imaging	Five_to_10_years
+127	38	SaaS Administration Applications	Two_to_five_years
+23	53	Wireless Video ? 60GHz	Five_to_10_years
+32	93	OpenNotes	Two_to_five_years
+78	15	End-User Experience Monitoring	Five_to_10_years
+48	95	Bluetooth 4	Two_to_five_years
+35	98	Heterogeneous Architectures	Five_to_10_years
+28	78	Server Power Capping	Five_to_10_years
+161	56	BPM Methodology Toolbox	Less_than_two_years
+107	24	Advanced Distribution Protection and Restoration Devices	Two_to_five_years
+30	88	Procurement Savings Management Solutions	Obsolete_before_Plateau
+45	98	External Hackathons	Two_to_five_years
+18	28	Molecular Transistors	More_than_10_years
+17	23	Bring Your Own Wellness	Five_to_10_years
+25	63	Service Billing	Two_to_five_years
+35	98	DASH7	Five_to_10_years
+113	28	Foreign/Global Trade Compliance	Five_to_10_years
+40	100	R	Two_to_five_years
+11	8	Wearable-Originated Payments	Five_to_10_years
+25	63	High-Temperature Superconductivity	More_than_10_years
+19	33	Java Enterprise Edition Version 7	Five_to_10_years
+21	43	Gesture Control for Banking	Five_to_10_years
+23	53	Smart Pattern Discovery	Five_to_10_years
+174	58	Data Center Outsourcing	Less_than_two_years
+100	20	Music Streaming in the Connected Home	Two_to_five_years
+107	24	On-Premises CEC	Less_than_two_years
+28	78	MDM and Social Data	Five_to_10_years
+142	49	Automotive CMOS Image Sensors	Less_than_two_years
+61	40	Power Conditioning (Non-UPS)	Two_to_five_years
+53	79	Enterprise Taxonomy and Ontology Management	More_than_10_years
+50	90	TinyOS	Two_to_five_years
+127	38	Flywheel UPS	Two_to_five_years
+26	68	Mobile Hardware Based Security Mechanisms	Five_to_10_years
+58	51	Private IaaS	Two_to_five_years
+187	60	Single-Work-Stream P2P Solutions	Less_than_two_years
+48	95	Cloudbursting	Two_to_five_years
+40	100	Automated Business Process Discovery	Two_to_five_years
+107	24	Enterprise Contract Life Cycle Management	Two_to_five_years
+139	47	Online Consumer Health Education and Advice	Less_than_two_years
+25	63	Home Automation	Five_to_10_years
+61	40	Cloud-Based Security Services	Two_to_five_years
+14	13	Radio Frequency Radiation Management	Five_to_10_years
+18	28	Telepsychiatry	Five_to_10_years
+16	18	Unified Endpoint Management (UEM)	Five_to_10_years
+49	93	Intelligent Bank Operations	Two_to_five_years
+17	23	Business Ecosystem Modeling	Five_to_10_years
+119	32	Enterprise 3D Printing	Two_to_five_years
+119	32	Mobile Device Management for India	Two_to_five_years
+97	18	Public Cloud ERP for Small or Midsize Businesses	Two_to_five_years
+25	63	Personalized Medicine	More_than_10_years
+22	48	In-Vehicle Occupants Health Monitoring	Five_to_10_years
+48	95	Digital Coupons for E-Commerce	Two_to_five_years
+29	83	OAuth	Two_to_five_years
+21	43	Quantum Computing	More_than_10_years
+14	13	Exostructure Strategy	Five_to_10_years
+148	52	Business Process Competency Center	Less_than_two_years
+30	88	Expertise Location and Management	Two_to_five_years
+161	56	Idea Management for Digital Marketing	Less_than_two_years
+139	47	Shared OS Virtualization (Nonmainframe)	Less_than_two_years
+113	28	Sales Information Services	Two_to_five_years
+48	95	Marketing Performance Management	Five_to_10_years
+27	73	Event-Driven Web	Five_to_10_years
+88	14	802.11af	Two_to_five_years
+136	45	Contactless Retail Payment System	Two_to_five_years
+51	87	Big Data Information Management for Government	Obsolete_before_Plateau
+53	79	Car Connectivity Consortium	Five_to_10_years
+56	62	Hybrid Cloud Computing	Two_to_five_years
+30	88	SOW Services Procurement Solutions	Two_to_five_years
+93	16	Near-Real-Time Low-Value Payment Systems	Two_to_five_years
+26	68	Open Data	Five_to_10_years
+29	83	Social IT Management	Five_to_10_years
+19	33	Smart Machine Healthcare Sage Apps	Five_to_10_years
+139	47	PV Monitoring Services	Less_than_two_years
+50	90	Mobile Security Apps	Two_to_five_years
+28	78	Graph Database Management Services	Two_to_five_years
+113	28	Partner Relationship Management	Two_to_five_years
+21	43	Context-Aware Offers in Consumer Goods	Five_to_10_years
+25	63	Marketing Technology Integrators	Five_to_10_years
+58	51	Neurometric Research	Five_to_10_years
+22	48	File Analysis	Five_to_10_years
+24	58	Collaborative Work Management	Five_to_10_years
+88	14	Flexible Alternating Current Transmission Systems	Five_to_10_years
+73	20	Process Metrics and Measurement	Five_to_10_years
+63	35	Identity Analytics and Intelligence	Five_to_10_years
+21	43	Brain-Computer Interface	More_than_10_years
+21	43	Spatially-Enabled Government Services	Five_to_10_years
+50	90	MPM Frameworks	Two_to_five_years
+48	95	Pharma PLM	More_than_10_years
+56	62	Health Insurance Marketplaces for U.S. Healthcare Payers	Two_to_five_years
+142	49	Email Encryption	Less_than_two_years

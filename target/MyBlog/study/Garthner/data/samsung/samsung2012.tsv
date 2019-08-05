@@ -1,0 +1,54 @@
+tnum	tval	tname	tplateau
+19	33	3D TV Services	More_than_10_years
+19	33	802.11ac	Five_to_10_years
+19	33	WiMAX 802.16m	Obsolete_before_Plateau
+20	38	Solar-Powered Mobile Devices	Five_to_10_years
+21	43	Tangible User Interfaces	More_than_10_years
+22	48	Memristor Memory	Five_to_10_years
+23	53	4K x 2K TV Displays	Two_to_five_years
+23	53	Car Connectivity Consortium	Five_to_10_years
+23	53	LTE-A	More_than_10_years
+23	53	Video Chat for Customer Support	Five_to_10_years
+24	58	Social TV	Five_to_10_years
+29	83	Consumer Smart Appliances	Five_to_10_years
+29	83	OLED Lighting	More_than_10_years
+30	88	Interoperable Storage Encryption	Five_to_10_years
+30	88	Spin Transfer Torque Magnetic Random-Access Memory	Five_to_10_years
+32	93	Media Tablets in China	Two_to_five_years
+32	93	Mobile Sports and Fitness	Two_to_five_years
+35	98	Smart Appliances	Five_to_10_years
+40	100	Broadband-Connected Televisions	Five_to_10_years
+40	100	Mobile Devices in Bank Branches	Less_than_two_years
+48	95	Media Tablets	Five_to_10_years
+49	93	3D LCDs	Two_to_five_years
+49	93	Remote Health Monitoring	Five_to_10_years
+50	90	Solar Power Mobile Devices	Five_to_10_years
+51	87	Continua 2011	Five_to_10_years
+53	79	"Data Encryption Technologies, HDDs and SSDs"	Two_to_five_years
+54	73	NFC	Two_to_five_years
+55	68	Over-the-Top Set-Top Boxes	Two_to_five_years
+57	56	Time Division-Long Term Evolution	Five_to_10_years
+63	35	802.22	Five_to_10_years
+63	35	PC-Grade SSDs	Five_to_10_years
+63	35	White Spaces: Super Wi-Fi	Five_to_10_years
+83	13	Chromebooks	Obsolete_before_Plateau
+83	13	Floating Body DRAM	Two_to_five_years
+83	13	Home Health Monitoring	Five_to_10_years
+88	14	Phase Change Memory	Less_than_two_years
+97	18	E-Book Readers	Less_than_two_years
+97	18	Wireless Video ? 2.4/5GHz	Less_than_two_years
+100	20	Femtocells	Less_than_two_years
+100	20	Long Term Evolution	Two_to_five_years
+100	20	Nonvolatile Memory Caching	Two_to_five_years
+107	24	Connected Portable Media Players	Less_than_two_years
+107	24	Connected TVs	Two_to_five_years
+113	28	Multitouch Displays	Less_than_two_years
+119	32	High-Performance Multicore Application Processors	Less_than_two_years
+127	38	Open-Source Communications	Less_than_two_years
+132	42	AMOLED	Two_to_five_years
+132	42	Magnetometer	Two_to_five_years
+136	45	PC-Grade Solid-State Drives	Less_than_two_years
+136	45	Through-Silicon Vias	Less_than_two_years
+161	56	Netbooks	Less_than_two_years
+161	56	Premium Communication Devices - Open OS	Less_than_two_years
+166	57	Mobile Handheld Devices for Utilities	Two_to_five_years

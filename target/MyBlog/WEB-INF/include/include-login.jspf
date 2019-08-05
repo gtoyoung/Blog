@@ -1,0 +1,6 @@
+
+<link href="/resource/css/bootstrap.min.css" rel="stylesheet">
+<link href="/resource/css/common.css" rel="stylesheet">
+
+<script src="/webjars/jquery/1.12.3/dist/jquery.min.js"></script>
+<script src="/resource/js/bootstrap.min.js"></script>

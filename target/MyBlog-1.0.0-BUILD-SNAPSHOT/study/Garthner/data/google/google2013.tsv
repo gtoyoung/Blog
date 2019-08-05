@@ -1,0 +1,128 @@
+tnum	tval	tname	tplateau
+11	8	Web Components	Five_to_10_years
+16	18	HTTP 2.0	Five_to_10_years
+16	18	Mobile Analytics	Five_to_10_years
+17	23	Cloud IMDG Services	Two_to_five_years
+18	28	Personal Cloud	Five_to_10_years
+18	28	Personal Cloud Entertainment Platforms	Five_to_10_years
+20	38	Education Tablet	Five_to_10_years
+21	43	Digital Wallets in Retail	Five_to_10_years
+22	48	Media-Embedded Merchandising	Five_to_10_years
+22	48	TV App Platforms	Five_to_10_years
+23	53	Embedded Hypervisor	Five_to_10_years
+23	53	Platform as a Service in China	Two_to_five_years
+24	58	Web Real-Time Communications	Two_to_five_years
+25	63	Agile Workplace Solutions	Five_to_10_years
+25	63	Application PaaS (aPaaS)	Five_to_10_years
+25	63	Machine Learning	Five_to_10_years
+25	63	Mobile Transphones	Obsolete_before_Plateau
+25	63	Mobile Virtual Worlds	Five_to_10_years
+25	63	R&D Cloud	Two_to_five_years
+26	68	Context-Enriched Content	Five_to_10_years
+26	68	Social TV	Five_to_10_years
+27	73	Autonomous Vehicles	Five_to_10_years
+27	73	Integrated UPS	Five_to_10_years
+28	78	Citizen Data Vaults	More_than_10_years
+28	78	Multivariate A/B Testing	Two_to_five_years
+29	83	Cloud Computing	Five_to_10_years
+29	83	Open Source in UC Components	Two_to_five_years
+29	83	OpenSL ES	Two_to_five_years
+30	88	Collaborative Authoring Tools	Five_to_10_years
+30	88	Context Delivery Architecture	Five_to_10_years
+30	88	LBSs in Automotive	Two_to_five_years
+30	88	Speech-to-Speech Translation	Five_to_10_years
+30	88	Web-Based Office Productivity Suites	Five_to_10_years
+32	93	Cloud Application Development Services	Five_to_10_years
+32	93	Community Cloud	Two_to_five_years
+35	98	Cloud Printing Services	Two_to_five_years
+35	98	Employee Use of Social Media in Government	Two_to_five_years
+35	98	Low-Cost Development Boards	Two_to_five_years
+40	100	Platform as a Service (PaaS)	Two_to_five_years
+40	100	Social Content	Two_to_five_years
+40	100	Wearable User Interfaces	Five_to_10_years
+45	98	Context-Enriched Services	Two_to_five_years
+45	98	Personal Cloud	Two_to_five_years
+48	95	Social Software Standards	Five_to_10_years
+48	95	Video Analytics of Consumer Behavior	Two_to_five_years
+49	93	Wi-Fi Positioning Systems	Two_to_five_years
+50	90	Application PaaS (aPaaS)	Two_to_five_years
+50	90	Bring Your Own Device	Two_to_five_years
+50	90	Semantic Web	Five_to_10_years
+51	87	In-App Advertising	Two_to_five_years
+52	83	Cloud Computing in Government	Two_to_five_years
+53	79	Mobile Collaboration Client	Two_to_five_years
+53	79	OMA Device Management	Five_to_10_years
+54	73	Browser Client OS	Five_to_10_years
+54	73	Cloud Office Systems	Five_to_10_years
+54	73	Consumer Mobile Apps	Two_to_five_years
+54	73	Head-Mounted Displays	Five_to_10_years
+54	73	NFC Payment	Five_to_10_years
+55	68	BYOD	Two_to_five_years
+56	62	Community Marketing Automotive	Five_to_10_years
+56	62	Database Platform as a Service (dbPaaS)	Two_to_five_years
+56	62	Enterprise Cloud Email	Two_to_five_years
+56	62	Personal Cloud Synchronization and Sharing	Two_to_five_years
+56	62	Social Gaming Ad Networks	Two_to_five_years
+57	56	Augmented Reality	Five_to_10_years
+57	56	Internet TV	Five_to_10_years
+58	51	Mobile Advertising	Two_to_five_years
+58	51	NFC	Two_to_five_years
+58	51	Website Experience Analytics	Two_to_five_years
+59	46	Geospatial Mashups	Obsolete_before_Plateau
+59	46	HTML5	Five_to_10_years
+59	46	Mobile Proximity Payment Systems ? North America	Two_to_five_years
+59	46	Mobile VoIP	Two_to_five_years
+61	40	Cloud UC (UCaaS)	Two_to_five_years
+61	40	Retail Mobile Payments	Five_to_10_years
+61	40	Web-Based Office Productivity Suites	Five_to_10_years
+63	35	Public Cloud Storage	Two_to_five_years
+63	35	Social Learning Platform for Education	Two_to_five_years
+66	29	Cloud Computing	Two_to_five_years
+66	29	Mobile Presence	Two_to_five_years
+66	29	Open Government Data	Two_to_five_years
+68	26	Cloud HPC/CaaS	Two_to_five_years
+68	26	Humanitarian Disaster Relief	Two_to_five_years
+73	20	Location-Based Advertising/Location-Based Marketing	Five_to_10_years
+73	20	Online Video Publishing Platforms	Two_to_five_years
+78	15	Mobile Web Applications	Two_to_five_years
+83	13	802.22	Five_to_10_years
+83	13	Enterprise Use of Social Media in Government	Two_to_five_years
+83	13	White Spaces: Super Wi-Fi	Two_to_five_years
+88	14	Cloud Email for Staff and Faculty	Two_to_five_years
+88	14	Socialcasting	Two_to_five_years
+93	16	Addressable TV Advertising	Five_to_10_years
+93	16	Chromebooks	Five_to_10_years
+93	16	Cloud/Web Platforms	Two_to_five_years
+93	16	Device-Embedded Biometric Authentication	Five_to_10_years
+93	16	Dynamic Creative Optimization	Two_to_five_years
+93	16	Location-Based Services for Government	Two_to_five_years
+93	16	Social Software Suites	Two_to_five_years
+93	16	Web Experience Analytics	Two_to_five_years
+97	18	M-Commerce	Five_to_10_years
+100	20	Activity Streams	Two_to_five_years
+107	24	Location-Aware Applications	Five_to_10_years
+107	24	Rich Presence	Two_to_five_years
+107	24	Voice to Text on Mobile Devices	Five_to_10_years
+113	28	Bone Conduction	Five_to_10_years
+119	32	Mobile Advertising	Two_to_five_years
+127	38	Mobile Advertising	Two_to_five_years
+132	42	Digital Ad Operations Platforms	Two_to_five_years
+132	42	Open-Source Communications	Less_than_two_years
+136	45	Media Engagement Metrics	Two_to_five_years
+139	47	Web Widgets	Less_than_two_years
+142	49	Consumer Web Mashup Tools	Obsolete_before_Plateau
+142	49	Unified Communications and Collaboration	Two_to_five_years
+148	52	Consumer Telematics	Five_to_10_years
+148	52	Tablets	Less_than_two_years
+148	52	Utility GIS	Two_to_five_years
+161	56	Cloud Advertising	Less_than_two_years
+161	56	E-Book Readers	Less_than_two_years
+161	56	Speech Recognition	Two_to_five_years
+166	57	In-Stream Video Ad Insertion	Less_than_two_years
+166	57	Web Analytics	Less_than_two_years
+172	58	Consumer App Stores	Less_than_two_years
+172	58	DOCSIS 3.0 and 3.1	Less_than_two_years
+179	59	Consumer Digital Rights Management	Less_than_two_years
+187	60	Mashups	Less_than_two_years
+187	60	Mobile Search	Less_than_two_years
+187	60	Navigation Solutions	Two_to_five_years

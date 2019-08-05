@@ -1,0 +1,47 @@
+tnum	tval	tname	tplateau
+16	18	100 Gbps PON	Five_to_10_years
+19	33	Intelligent Transportation Systems	Five_to_10_years
+19	33	WiMAX 802.16m	Obsolete_before_Plateau
+21	43	Terabit-per-Second Transport	Five_to_10_years
+23	53	LTE-A	More_than_10_years
+28	78	Networking IT and OT	Two_to_five_years
+32	93	Convergent Communications Advertising Platforms (CCAPs)	Five_to_10_years
+35	98	4G Standard	Two_to_five_years
+35	98	Mobile QoS for LTE	Two_to_five_years
+40	100	WDM-PON	Five_to_10_years
+48	95	Mobile Self-Organizing Networks	Less_than_two_years
+51	87	Integrated Policy and Charging Control Solutions	Two_to_five_years
+54	73	Mobile Subscriber Data Management	Two_to_five_years
+55	68	Mobile WLAN Access Points	Two_to_five_years
+56	62	Rich Communication Suite	Two_to_five_years
+57	56	Time Division-Long Term Evolution	Five_to_10_years
+57	56	VDSL2 Enhancements	Two_to_five_years
+59	46	"Business Intelligence Platforms, China"	Two_to_five_years
+61	40	Next-Generation Service Delivery Platforms	Two_to_five_years
+73	20	10G-PON	Five_to_10_years
+88	14	100 Gbps Transport	Two_to_five_years
+93	16	Embedded Wireless Cellular Modems	Less_than_two_years
+93	16	IPv6	Five_to_10_years
+93	16	Network Sharing	Two_to_five_years
+100	20	Femtocells	Less_than_two_years
+100	20	IMS	Two_to_five_years
+100	20	Long Term Evolution	Two_to_five_years
+107	24	Universal Queue Management	Two_to_five_years
+113	28	Basic Communication Devices - Open OS	Less_than_two_years
+127	38	40 Gbps Transport	Less_than_two_years
+127	38	Convergent Charging	Five_to_10_years
+136	45	Blade Servers	Less_than_two_years
+136	45	Time Division-Synchronous Code Division Multiple Access	Obsolete_before_Plateau
+139	47	Blade Servers	Less_than_two_years
+139	47	HSPA+	Less_than_two_years
+139	47	Virtual Contact Centers	Less_than_two_years
+142	49	FTTH	Two_to_five_years
+142	49	MPLS-TP	Less_than_two_years
+148	52	VDSL2	Less_than_two_years
+161	56	OTN and GMPLS/ASON	Less_than_two_years
+166	57	Contact Centers: IP-Based	Less_than_two_years
+172	58	Next-Generation Voice	Less_than_two_years
+179	59	Contact Centers	Less_than_two_years
+179	59	Hybrid MPLS/Internet WAN	Less_than_two_years
+179	59	ROADMs	Less_than_two_years
+179	59	iSCSI	Less_than_two_years

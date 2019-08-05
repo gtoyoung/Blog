@@ -1,0 +1,44 @@
+tnum	tval	tname	tplateau
+14	13	Consumer Content Creation Tools	Less_than_two_years
+14	13	Consumer Digital Rights Management	Two_to_five_years
+17	23	Mobile Application Development	Two_to_five_years
+17	23	VoIP over WLAN	Five_to_10_years
+19	33	Convergent Communications Advertising Platforms	Five_to_10_years
+23	53	Video-Based Customer Support	Two_to_five_years
+24	58	Premium Communication Devices ? Open OS	Two_to_five_years
+26	68	Internet TV	Five_to_10_years
+26	68	Mobile Browsers	Two_to_five_years
+26	68	Ultra-Mini-PCs	Two_to_five_years
+27	73	Multitouch	Less_than_two_years
+27	73	Workforce Continuity	Two_to_five_years
+28	78	Mobile Advertising	Five_to_10_years
+30	88	Context Delivery Architecture	Five_to_10_years
+32	93	Mobile Cloud Synchronization	Two_to_five_years
+32	93	Podcasting	Less_than_two_years
+45	98	Media Tablet	Two_to_five_years
+45	98	Over-the-Top Set-Top Boxes	Five_to_10_years
+48	95	Transactional Ad Units	Two_to_five_years
+49	93	Home Energy Management/Consumer Energy Management	Five_to_10_years
+49	93	Podcasting Learning Content	Obsolete_before_Plateau
+50	90	Mobile Advertising	Two_to_five_years
+50	90	Tablet PCs for Healthcare	Less_than_two_years
+51	87	Mobile Application Stores	Less_than_two_years
+56	62	Mobile-Learning Smartphone	Five_to_10_years
+57	56	Mobile Enterprise Application Platforms	Two_to_five_years
+66	29	Full-Track Music Downloads	Less_than_two_years
+68	26	Mobile Learning	Five_to_10_years
+78	15	App and Widget Advertising	Two_to_five_years
+88	14	HTML5	Five_to_10_years
+88	14	Instruction Set Virtualization	Five_to_10_years
+93	16	Magnetometer	Five_to_10_years
+97	18	Connected Portable Media Players	Less_than_two_years
+97	18	Mobile Device Integration Into Automobiles	Five_to_10_years
+97	18	Mobile Devices in Bank Branches	Two_to_five_years
+100	20	Mobile Collaboration Client	Two_to_five_years
+123	35	Mobile Web Applications	Two_to_five_years
+127	38	GPS	Less_than_two_years
+139	47	Mobile Sports and Fitness	Two_to_five_years
+148	52	Context-Enriched Services	Five_to_10_years
+166	57	Mobile Devices in Dealerships	Two_to_five_years
+179	59	"In-Car, Hands-Free Input Technologies"	Two_to_five_years
+187	60	Broadband Music	Less_than_two_years

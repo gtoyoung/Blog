@@ -1,0 +1,199 @@
+<meta charset="utf-8">
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/RGB.css" type="text/css" />
+    <link rel="stylesheet" href="css/parallel.style.css" type="text/css" />
+    <link rel="stylesheet" href="css/index.css" type="text/css" />
+    <link rel="stylesheet" href="css/slick.grid.css" />
+
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://www.jasondavies.com/d3.js"></script>
+    <script src="http://www.jasondavies.com/wordcloud/d3.layout.cloud.js"></script>
+    <script src="js/d3.tip.v0.6.3.js"></script>
+    <script src="js/tagcloud.js"></script>
+    <script src="js/RGB2.js" defer></script>
+    <script src="js/Emotion_Ruller.js" defer></script>
+    <script src="js/tag.js" defer></script>
+    <script src="js/jquery-1.7.2.js"></script>
+    <script src="js/jquery.event.drag-2.0.min.js"></script>
+    <script src="js/jquery-ui-1.8.16.custom.min.js"></script>
+    <script src="js/parallel-coordinates-veggie.js" type="text/javascript"></script>
+    <script src="js/slick.core.js"></script>
+    <script src="js/slick.grid.js"></script>
+    <script src="js/slick.dataview.js"></script>
+    <script src="js/slick.pager.js"></script>
+    <script src="js/underscore.js"></script>
+    <script src="js/backbone.js"></script>
+    <script src="js/filter.js"></script>
+    <script src="js/grid.js"></script>
+    <script src="js/parallel.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(init);
+    </script>
+</head>
+
+<body>
+    <div id="tooltip" class="hidden">
+        <p><span id="value"></span>
+        </p>
+    </div>
+
+    <div>
+        <p style="font-size: 32px">*정서</p>
+        날짜:
+        <select id="order">
+            <option value="-1" selected>--선택--</option>
+            <!--A그룹-->
+            <option value="0">6월4일 A그룹</option>
+            <option value="1">6월4일 B그룹</option>
+            <option value="2">6월5일</option>
+            <option value="3">6월6일</option>
+            <option value="4">6월7일</option>
+            <option value="5">6월8일 A그룹</option>
+            <option value="6">6월8일 B그룹</option>
+            <option value="7">6월9일</option>
+            <option value="8">6월10일</option>
+            <option value="9">6월11일</option>
+            <option value="10">6월12일 A그룹</option>
+            <option value="11">6월12일 B그룹</option>
+            <option value="12">6월13일</option>
+            <option value="13">6월14일</option>
+            <option value="14">6월15일</option>
+            <option value="15">6월16일 A그룹</option>
+            <option value="16">6월16일 B그룹</option>
+            <!--B그룹-->
+            <option value="17">6월17일</option>
+            <option value="18">6월18일</option>
+            <option value="19">6월19일</option>
+            <option value="20">6월20일 A그룹</option>
+            <option value="21">6월20일 B그룹</option>
+            <option value="22">6월21일</option>
+            <option value="23">6월22일</option>
+            <option value="24">6월23일</option>
+            <option value="25">6월24일 A그룹</option>
+            <option value="26">6월24일 B그룹</option>
+            <option value="27">6월25일</option>
+            <option value="28">6월26일</option>
+            <option value="29">6월27일</option>
+            <!--A그룹 다시-->
+            <option value="30">6월28일 A그룹</option>
+            <option value="31">6월28일 B그룹</option>
+
+
+        </select>
+        <br/>
+    </div>
+
+    <div id="RGB">
+        <div class="group" id="group1" style="float: left;width: 33%;text-decoration: overline;">
+            <p style="font-size: 32px"></p>
+        </div>
+        <div class="group" id="group2" style="float: left;width: 33%;text-decoration: overline;">
+            <p style="font-size: 32px"></p>
+        </div>
+        <div class="group" id="group3" style="float: left;width: 33%;text-decoration: overline;">
+            <p style="font-size: 32px"></p>
+        </div>
+        <div class="chart" id="chart1"></div>
+        <div class="chart" id="chart2"></div>
+        <div class="chart" id="chart3"></div>
+    </div>
+    
+    <p style="font-size: 32px">*태그 클라우드</p>
+    날짜:
+    <select id="tag">
+        <option value="-1" selected>--선택--</option>
+        <!--A그룹-->
+        <option value="0">6월4일 A그룹</option>
+        <option value="1">6월4일 B그룹</option>
+        <option value="2">6월5일</option>
+        <option value="3">6월6일</option>
+        <option value="4">6월7일</option>
+        <option value="5">6월8일 A그룹</option>
+        <option value="6">6월8일 B그룹</option>
+        <option value="7">6월9일</option>
+        <option value="8">6월10일</option>
+        <option value="9">6월11일</option>
+        <option value="10">6월12일 A그룹</option>
+        <option value="11">6월12일 B그룹</option>
+        <option value="12">6월13일</option>
+        <option value="13">6월14일</option>
+        <option value="14">6월15일</option>
+        <option value="15">6월16일 A그룹</option>
+        <option value="16">6월16일 B그룹</option>
+        <!--B그룹-->
+        <option value="17">6월17일</option>
+        <option value="18">6월18일</option>
+        <option value="19">6월19일</option>
+        <option value="20">6월20일 A그룹</option>
+        <option value="21">6월20일 B그룹</option>
+        <option value="22">6월21일</option>
+        <option value="23">6월22일</option>
+        <option value="24">6월23일</option>
+        <option value="25">6월24일 A그룹</option>
+        <option value="26">6월24일 B그룹</option>
+        <option value="27">6월25일</option>
+        <option value="28">6월26일</option>
+        <option value="29">6월27일</option>
+        <!--A그룹 다시-->
+        <option value="30">6월28일 A그룹</option>
+        <option value="31">6월28일 B그룹</option>
+
+    </select>
+
+    <div>
+        <div class="tagg" id="taggroup1"></div>
+        <div class="tagg" id="taggroup2"></div>
+        <div class="tagg" id="taggroup3"></div>
+        <div class="tagcloud" id="A"></div>
+        <div class="tagcloud" id="B"></div>
+        <div class="tagcloud" id="C"></div>
+    </div>
+    <div>
+        <div id="trend2">
+            <p style="font-size: 32px">* 자기주도유형 변화 그래프</p>
+
+            <select>
+                <option value="" selected>--차수--</option>
+                <option value="A">A그룹</option>
+                <option value="B">B그룹</option>
+                <option value="피실험자1">피실험자1</option>
+                <option value="피실험자2">피실험자2</option>
+                <option value="피실험자3">피실험자3</option>
+                <option value="피실험자4">피실험자4</option>
+                <option value="피실험자5">피실험자5</option>
+                <option value="피실험자6">피실험자6</option>
+                <option value="피실험자7">피실험자7</option>
+                <option value="피실험자8">피실험자8</option>
+                <option value="피실험자9">피실험자9</option>
+                <option value="피실험자10">피실험자10</option>
+                <option value="피실험자11">피실험자11</option>
+                <option value="피실험자12">피실험자12</option>
+                <option value="피실험자13">피실험자13</option>
+                <option value="피실험자14">피실험자14</option>
+                <option value="피실험자15">피실험자15</option>
+                <option value="피실험자16">피실험자16</option>
+                <option value="피실험자17">피실험자17</option>
+                <option value="피실험자18">피실험자18</option>
+                <option value="피실험자19">피실험자19</option>
+                <option value="피실험자20">피실험자20</option>
+                <option value="피실험자21">피실험자21</option>
+                <option value="피실험자22">피실험자22</option>
+                <option value="피실험자23">피실험자23</option>
+                <option value="피실험자24">피실험자24</option>
+                <option value="피실험자25">피실험자25</option>
+                <option value="피실험자26">피실험자26</option>
+                <option value="피실험자27">피실험자27</option>
+                <option value="피실험자28">피실험자28</option>
+                <option value="피실험자29">피실험자29</option>
+                <option value="피실험자30">피실험자30</option>
+
+            </select>
+        </div>
+    </div>
+
+    <div id="d3js_view"></div>
+</body>
+
+</html>

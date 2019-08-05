@@ -1,0 +1,59 @@
+tnum	tval	tname	tplateau
+14	13	5G	Five_to_10_years
+20	38	100 Gbps PON	Five_to_10_years
+23	53	Open APIs in CSPs' Infrastructure	Two_to_five_years
+23	53	Terabit-per-Second Transport	Five_to_10_years
+24	58	Intelligent Transportation Systems	Five_to_10_years
+30	88	Networking IT and OT	Two_to_five_years
+30	88	Object-Based Storage	Five_to_10_years
+32	93	Convergent Communications Advertising Platforms (CCAPs)	Five_to_10_years
+32	93	Fabric-Based Infrastructure	Five_to_10_years
+35	98	Desktop Virtualization	Five_to_10_years
+45	98	LTE-A	Two_to_five_years
+49	93	WDM-PON	Obsolete_before_Plateau
+50	90	4G Standard	Two_to_five_years
+50	90	CSB Aggregation Enablement	Two_to_five_years
+51	87	Mobile Self-Organizing Networks	Less_than_two_years
+53	79	Integrated Policy and Charging Control Solutions	Two_to_five_years
+53	79	Small Cells	Two_to_five_years
+55	68	Mobile Subscriber Data Management	Two_to_five_years
+56	62	Mobile QoS for LTE	Two_to_five_years
+58	51	Unified Communications	Five_to_10_years
+61	40	Storage Cluster File Systems	Five_to_10_years
+66	29	Next-Generation Service Delivery Platforms	Two_to_five_years
+78	15	DSL Vectoring/G.fast	Two_to_five_years
+78	15	Data Deduplication	Two_to_five_years
+78	15	Multinode Servers	Two_to_five_years
+83	13	10G-PON	Five_to_10_years
+83	13	x86 Server Virtualization and Management	Two_to_five_years
+88	14	TD-LTE	Five_to_10_years
+93	16	IPv6	Five_to_10_years
+97	18	Rich Communication Suite	Two_to_five_years
+97	18	Virtualization	Two_to_five_years
+100	20	100 Gbps Transport	Two_to_five_years
+100	20	Appliance-Based Replication	Two_to_five_years
+100	20	Enterprise-Grade Solid-State Drives	Less_than_two_years
+107	24	Mobile WLAN Access Points	Two_to_five_years
+107	24	Unified Threat Management (UTM)	Less_than_two_years
+107	24	Video Telepresence ? India	Obsolete_before_Plateau
+113	28	IMS	Two_to_five_years
+113	28	Universal Queue Management	Two_to_five_years
+123	35	Network Sharing	Two_to_five_years
+132	42	Convergent Charging	Two_to_five_years
+132	42	Femtocells	Less_than_two_years
+132	42	Long Term Evolution	Two_to_five_years
+136	45	40 Gbps Transport	Less_than_two_years
+142	49	IPTV	Less_than_two_years
+142	49	Unified Communications and Collaboration	Two_to_five_years
+142	49	Virtual Contact Centers	Two_to_five_years
+156	55	FTTH	Two_to_five_years
+161	56	VDSL2	Less_than_two_years
+166	57	Blade Servers	Less_than_two_years
+166	57	MPLS-TP	Less_than_two_years
+166	57	OTN and GMPLS/ASON	Less_than_two_years
+172	58	Contact Centers: IP-Based	Less_than_two_years
+172	58	HSPA+	Less_than_two_years
+187	60	Basic Phones ? Open OS	Less_than_two_years
+187	60	Contact Centers	Less_than_two_years
+187	60	Hybrid MPLS/Internet WAN	Less_than_two_years
+187	60	Next-Generation Voice	Less_than_two_years

@@ -1,0 +1,148 @@
+tnum	tval	tname	tplateau
+11	8	Digital Security	Five_to_10_years
+11	8	Virtual Personal Assistants	Five_to_10_years
+11	8	Wearable-Originated Payments	Five_to_10_years
+11	8	Web Components	More_than_10_years
+14	13	Cognitive Computing	Five_to_10_years
+14	13	Cognitive Computing-Enabled Services	Five_to_10_years
+14	13	Cognizant Computing	Five_to_10_years
+14	13	Open Automotive Alliance	Five_to_10_years
+14	13	OpenID Connect	Five_to_10_years
+14	13	OpenID Connect	Five_to_10_years
+14	13	Programmatic TV Advertising	More_than_10_years
+14	13	Smart Robots in Manufacturing	Five_to_10_years
+16	18	Modular Smartphones and Tablets	Five_to_10_years
+16	18	Smart Machines in Government	Five_to_10_years
+18	28	Cloud Integrated Infrastructure Services (CIIS)	Two_to_five_years
+18	28	Connected Home	Five_to_10_years
+19	33	HTTP 2.0	Five_to_10_years
+19	33	Patient Engagement and Persuasion Analytics	More_than_10_years
+19	33	Telesurgery	More_than_10_years
+21	43	Cloud/Client Computing	Five_to_10_years
+22	48	Personal Wellness Records	Five_to_10_years
+22	48	Proactive Search	Five_to_10_years
+23	53	Digital Wallets in Retail	Five_to_10_years
+23	53	Education Tablet	Five_to_10_years
+23	53	Media-Embedded Merchandising	Five_to_10_years
+23	53	Mobile Commerce	Two_to_five_years
+23	53	Mobile Marketing Analytics	Five_to_10_years
+23	53	Personal Cloud	Five_to_10_years
+23	53	Smart Robots	Five_to_10_years
+24	58	Cloud IMDG Services	Two_to_five_years
+24	58	Product Innovation Platforms	Two_to_five_years
+24	58	Real-Time Parking	Five_to_10_years
+24	58	TV App Platforms	Five_to_10_years
+25	63	Home Automation	Five_to_10_years
+25	63	Mashups	Two_to_five_years
+25	63	R&D Cloud Collaboration	Two_to_five_years
+25	63	Wearable User Interfaces	Five_to_10_years
+27	73	Agile Workplace Solutions	Five_to_10_years
+27	73	Augmented Reality in Retail	Five_to_10_years
+27	73	Internal CSB	Five_to_10_years
+28	78	Bring Your Own App (BYOA)	Two_to_five_years
+28	78	Digital Marketing	Two_to_five_years
+28	78	Platform as a Service in China	Two_to_five_years
+29	83	Context-Enriched Content	Five_to_10_years
+29	83	Geospatial and Location Intelligence	Two_to_five_years
+29	83	Integrated UPS	Five_to_10_years
+29	83	Intelligent Transportation Systems	Five_to_10_years
+29	83	Personal Cloud Entertainment Platforms	Five_to_10_years
+29	83	Web Real-Time Communications	Five_to_10_years
+30	88	Citizen Data Vaults	More_than_10_years
+30	88	Embedded Hypervisor	Five_to_10_years
+30	88	Multivariate and A/B Testing	Five_to_10_years
+32	93	Autonomous Vehicles	Five_to_10_years
+32	93	Collaborative Authoring Tools	Five_to_10_years
+32	93	Mobile Wallet	Two_to_five_years
+32	93	Speech-to-Speech Translation	Five_to_10_years
+35	98	Cloud Computing	Two_to_five_years
+35	98	Context Delivery Architecture	Five_to_10_years
+40	100	EMM/MDM Security Capabilities	Five_to_10_years
+40	100	LBSs in Automotive	Five_to_10_years
+40	100	Low-Cost Development Boards	Two_to_five_years
+45	98	Cloud Printing Services	Two_to_five_years
+45	98	Wearable User Interfaces	Five_to_10_years
+48	95	Context-Enriched Services	Two_to_five_years
+48	95	OpenSL ES	Two_to_five_years
+48	95	Social Content	Two_to_five_years
+49	93	Location Intelligence	Two_to_five_years
+49	93	Mobile Virtual Assistants	Five_to_10_years
+49	93	Platform as a Service (PaaS)	Two_to_five_years
+49	93	Teletrauma	Five_to_10_years
+50	90	Employee Use of Social Media in Government	Two_to_five_years
+50	90	Vehicle Information Hub	Two_to_five_years
+50	90	Virtual Customer Assistants	Two_to_five_years
+51	87	Application PaaS (aPaaS)	Two_to_five_years
+54	73	Social TV	Five_to_10_years
+55	68	Connected Televisions	Five_to_10_years
+56	62	Consumer Mobile Apps	Two_to_five_years
+56	62	Database Platform as a Service	Two_to_five_years
+56	62	Head-Mounted Displays	Five_to_10_years
+56	62	Mobile Device Integration Into Automobiles	Two_to_five_years
+56	62	Personal Cloud	Two_to_five_years
+57	56	Mobile Technology for Manufacturing Operations	Two_to_five_years
+58	51	Augmented Reality	Five_to_10_years
+58	51	Green Data Center	Two_to_five_years
+58	51	In-App Advertising	Two_to_five_years
+59	46	Internet TV	Five_to_10_years
+63	35	Cloud Computing in Government	Two_to_five_years
+63	35	Mobile Advertising for India	Two_to_five_years
+63	35	Mobile VoIP	Two_to_five_years
+63	35	Over-the-Top Set-Top Boxes	Two_to_five_years
+63	35	Semantic Web	Five_to_10_years
+63	35	User Authentication to Mobile Devices	Five_to_10_years
+66	29	Device-Embedded Biometric Authentication	Five_to_10_years
+66	29	NFC Payment	Five_to_10_years
+66	29	Public Cloud Storage	Two_to_five_years
+66	29	Video Analytics	Two_to_five_years
+68	26	Cloud Office Systems	Two_to_five_years
+68	26	Retail Mobile Payments	Five_to_10_years
+73	20	Cloud Computing	Two_to_five_years
+73	20	Cloud UC (UCaaS)	Two_to_five_years
+73	20	HTML5	Five_to_10_years
+73	20	NFC	Two_to_five_years
+73	20	Open Any Data in Government	Five_to_10_years
+83	13	Online Video Publishing Platforms	Two_to_five_years
+88	14	802.11af	Two_to_five_years
+88	14	802.22	Five_to_10_years
+88	14	Automotive HMI Technologies	Five_to_10_years
+88	14	BYOD	Two_to_five_years
+88	14	SaaS Archiving of Messaging Data	Two_to_five_years
+88	14	Social Gaming Ad Networks	Obsolete_before_Plateau
+93	16	Cloud HPC/CaaS	Two_to_five_years
+93	16	Location-Based Advertising/Location-Based Marketing	Five_to_10_years
+93	16	Website Experience Analytics	Two_to_five_years
+97	18	Cloud/Web Platforms	Two_to_five_years
+97	18	Enterprise Social Networking Applications	Two_to_five_years
+97	18	Social Learning Platform for Education	Less_than_two_years
+100	20	Addressable TV Advertising	Two_to_five_years
+100	20	Browser Client OS	Two_to_five_years
+100	20	Dynamic Creative Optimization	Two_to_five_years
+100	20	Enterprise Cloud Email	Two_to_five_years
+100	20	Gesture Control	Two_to_five_years
+107	24	Activity Streams	Two_to_five_years
+107	24	Chromebooks	Two_to_five_years
+113	28	Enterprise Information Archiving	Two_to_five_years
+119	32	Bone Conduction	Five_to_10_years
+119	32	Broadband for All	Five_to_10_years
+119	32	Location-Aware Applications	Five_to_10_years
+119	32	Rich Presence	Two_to_five_years
+127	38	Mobile Advertising	Two_to_five_years
+132	42	Mobile Advertising For Automotive	Five_to_10_years
+132	42	Socialcasting	Two_to_five_years
+136	45	Personal Cloud Synchronization and Sharing	Less_than_two_years
+139	47	Cloud Email for Staff and Faculty	Less_than_two_years
+139	47	Digital Ad Operations Platforms	Two_to_five_years
+139	47	Mobile Social Networks	Less_than_two_years
+139	47	Online Consumer Health Education and Advice	Less_than_two_years
+142	49	Media Engagement and Viewability Metrics	Less_than_two_years
+142	49	Unified Communications and Collaboration	Two_to_five_years
+148	52	Native Mobile Development	Less_than_two_years
+156	55	Consumer Telematics	Five_to_10_years
+156	55	Utility GIS	Two_to_five_years
+161	56	Internal Peer-to-Peer Communities	Less_than_two_years
+161	56	Web Widgets	Less_than_two_years
+166	57	Speech Recognition	Less_than_two_years
+187	60	Consumer Digital Rights Management	Less_than_two_years
+187	60	Navigation Solutions	Less_than_two_years
+187	60	Web Analytics	Less_than_two_years
