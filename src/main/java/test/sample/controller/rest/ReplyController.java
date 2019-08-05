@@ -25,6 +25,7 @@ public class ReplyController {
 
 	@RequestMapping(value="/reply",method=RequestMethod.GET)
 	public List<Reply> list(@RequestParam(value="postId", required=true)int postId){
+		// 주석 처리
 		return replyRepository.findByPostId(postId);
 	}
 	
