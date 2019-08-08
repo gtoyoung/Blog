@@ -25,7 +25,7 @@
 		<li><a href="/post/write">글쓰기</a></li>
 		<li><a href="/post/search">Search</a></li>
 		<hr>
-		<li><a href="#menu" id="menu">재미로..</a></li>
+		<li><a href="#menu" id="menu">연구과제</a></li>
 		<ul id="submenu" style="display: none;">
 			<li><a href="/study/RGB/index.html"> -RGB</a></li>
 			<li><a href="/study/Garthner/index.html"> -Hyper</a></li>
