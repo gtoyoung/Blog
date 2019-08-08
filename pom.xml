@@ -49,6 +49,11 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.38</version>
 		</dependency>
+		<dependency>
+			<groupId>javax.annotation</groupId>
+			<artifactId>javax.annotation-api</artifactId>
+			<version>1.3.1</version>
+		</dependency>
 		<!-- 스프링 ORM -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -335,7 +340,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>MyBlog</finalName>
+		<finalName>ROOT.war</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
