@@ -22,10 +22,11 @@
 			value="org.mariadb.jdbc.Driver" />
 		<property name="url"
 			value="jdbc:mariadb://192.168.219.149:7043/MyBlog" />
+<!-- 		<property name="url"
+			value="jdbc:mariadb://119.71.129.160:7043/MyBlog" /> -->
 		<property name="username" value="root" />
 		<property name="password" value="wodms0626" />
 	</bean>
-	<!-- 192.168.219.149 -->
 	<!-- <bean id="dataSource" class="org.springframework.jdbc.datasource.SimpleDriverDataSource"> 
 		<property name="driverClass" value="com.mysql.jdbc.Driver" /> <property name="url" 
 		value="jdbc:mysql://localhost:3306/myblog?characterEncoding=UTF-8" /> <property 
@@ -34,7 +35,8 @@
 
 	<bean id="transactionManager"
 		class="org.springframework.orm.jpa.JpaTransactionManager">
-		<property name="dataSource" ref="dataSource" />
+		<property name="entityManagerFactory"
+			ref="entityManagerFactory" />
 	</bean>
 
 	<bean id="uploadPath" class="java.lang.String">
