@@ -22,19 +22,7 @@
 </style>
 </head>
 <body>
-	<div id="toolbar" style="float: right; width: 33%">
-		<span id="back" class="icon-back" onclick="history.back();">돌아가기</span><br>
-		<span id="hinted" class="icon-pre disabled"
-			title="Toggle Markdown Hints"></span>
-
-		<form action="/category/add" method="post" id="add_category">
-			<input type="text" name="categoryName" class="form-control"
-				placeholder="새로운 카테고리" required="required"> <input
-				type="hidden" name="_csrf" value="${_csrf.token}">
-			<button type="submit" class="form-control">추가</button>
-		</form>
-	</div>
-	<div style="float: right; width: 66%">
+	<div>
 		<form:form
 			action="${requestScope['javax.servlet.forward.servlet_path']}"
 			commandName="post" method="post" id="frm">

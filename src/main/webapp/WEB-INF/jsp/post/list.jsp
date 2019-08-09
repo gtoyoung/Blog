@@ -6,32 +6,76 @@
 <head>
 
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="author" content="">
 <%@ include file="/WEB-INF/include/include-header.jspf"%>
 <title>DoubleB`s Page</title>
-
+<link rel="stylesheet"
+	href="/webjars/jqcloud2/2.0.1/dist/jqcloud.min.css">
+<link href="/webjars/semantic-ui/2.1.8/dist/semantic.min.css"
+	rel="stylesheet" type="text/css">
 </head>
 
 <body>
-	<div id="wrapper">
+	<div class="ui top attached menu">
+		<a class="item"> <i class="sidebar icon"></i> Menu
+		</a>
+	</div>
+	<div class="ui wide left vertical inverted sidebar labeled icon menu">
+		<div class="item">
+			<c:if test="${pageContext.request.userPrincipal.name != null}">
+				<form id="logoutForm" method="POST" action="${contextPath}/logout">
+					<input type="hidden" name="${_csrf.parameterName}"
+						value="${_csrf.token}" />
+				</form>
 
-		<%@ include file="/WEB-INF/include/sidebar.jspf"%>
+				<h2>
+					환영합니다. ${pageContext.request.userPrincipal.name} 님<a id="logoutbtn"
+						onclick="document.forms['logoutForm'].submit()">Logout</a>
+				</h2>
 
+			</c:if>
+			<c:if test="${pageContext.request.userPrincipal.name == null}">
+				<h2>
+					<a href="/login">Login</a>
+				</h2>
+			</c:if>
+		</div>
+		<a class="item" href="/post/list"><i class="Home icon"></i>Home</a> <a
+			class="item" href="/post/write"> <i class="Write icon"></i>글쓰기
+		</a>
+		<c:if test="${pageContext.request.userPrincipal.name == 'admindb'}">
+			<a class="item" href="/admin"> <i class="User icon"></i>관리자 페이지
+			</a>
+		</c:if>
+		<h1 id="menu">공부중</h1>
+		<div id="submenu" style="display: none;">
+			<a class="ui red tag label" href="/study/RGB/index.html"> -RGB</a><br>
+			<a class="ui tag label" href="/study/Garthner/index.html"> -Hyper</a><br>
+			<a class="ui teal tag label" href="/study/Etc/test.html">-이동하는글
+				링크</a><br> <a class="ui red tag label" href="/study/Etc/text.html">-텍스트파일
+				읽기</a>
+		</div>
 
+		<h1 id="categorymenu">category</h1>
+		<div id="categorysubmenu" style="display: none;">
+			<c:forEach items="${categoryMap}" var="category">
+				<a href="/category/${category.id}/post/list" class="ui tag label"><c:out
+						value="${category.name}" escapeXml="true" /></a>
+			</c:forEach>
+		</div>
+
+		<h2>Tags</h2>
+		<div id="tag-cloud"
+			style="width: 95%; height: 270px; margin: -10px 5px;"></div>
+	</div>
+	<div class="pusher">
 		<!-- Page Header -->
 		<!-- Set your background image for this header on the line below. -->
 		<header class="intro-header"
-			style="background-image: url('/resource/img/home-bg.jpg')">
+			style="background-image: url('/resource/img/home.bmp')">
 			<div id="page-content-wrapper">
 				<div class="container-fluid">
 					<div class="row">
-						<div class="col-lg-12">
-							<a href="#menu-toggle" class="btn btn-default" id="menu-toggle">클릭!-메뉴나옴</a>
-
-						</div>
+						<div class="col-lg-12"></div>
 					</div>
 				</div>
 			</div>
@@ -136,9 +180,40 @@
 		</footer>
 	</div>
 
-
-
 </body>
+<script src="/webjars/semantic-ui/2.1.8/dist/semantic.min.js"></script>
+<script src="/webjars/jqcloud2/2.0.1/dist/jqcloud.min.js"></script>
+<script>
+	$("#menu").click(function(e) {
+		e.preventDefault();
+		var obj = document.getElementById("submenu");
+		if (obj.style.display == "none") {
+			obj.style.display = "block";
+		} else if (obj.style.display == "block")
+			obj.style.display = "none";
 
+	});
+	$.ajax({
+		type : 'GET',
+		url : '/tag-cloud',
+		dataType : 'json',
+		success : function(word_array) {
+			$("#tag-cloud").jQCloud(word_array);
+			loadTag = true;
+		}
+	});
+	$("#categorymenu").click(function(e) {
+		e.preventDefault();
+		var obj = document.getElementById("categorysubmenu");
+		if (obj.style.display == "none") {
+			obj.style.display = "block";
+		} else if (obj.style.display == "block")
+			obj.style.display = "none";
+
+	});
+	$('.ui.labeled.icon.sidebar')
+			.sidebar('setting', 'transition', 'scale down').sidebar(
+					'attach events', '.menu .item')
+</script>
 
 </html>

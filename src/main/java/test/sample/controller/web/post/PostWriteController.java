@@ -34,7 +34,7 @@ public class PostWriteController {
 	public String write(@Valid PostCommand postCommand, BindingResult bindingResult, Principal principal, Model model) {
 		model.addAttribute("TagList",tagRepository.findAll());
 		model.addAttribute("categoryMap", categoryRepository.getCategoryMap());
-
+		
 		if (bindingResult.hasErrors()) {
 			return "post/form";
 		}

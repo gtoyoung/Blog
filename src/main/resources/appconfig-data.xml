@@ -24,7 +24,7 @@
 			value="org.mariadb.jdbc.Driver" />
 		<property name="url"
 			value="jdbc:mariadb://192.168.219.149:7043/MyBlog" />
-		<!-- <property name="url" value="jdbc:mariadb://119.71.129.160:7043/TestBlog" 
+<!-- 		<property name="url" value="jdbc:mariadb://119.71.129.160:7043/Test" 
 			/> -->
 		<property name="username" value="root" />
 		<property name="password" value="wodms0626" />

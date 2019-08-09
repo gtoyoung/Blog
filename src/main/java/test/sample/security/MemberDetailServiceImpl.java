@@ -15,7 +15,6 @@ import org.springframework.transaction.annotation.Transactional;
 import test.sample.dao.MemberDao;
 import test.sample.entity.Member;
 
-
 public class MemberDetailServiceImpl implements UserDetailsService {
 
 	@Autowired
@@ -27,7 +26,13 @@ public class MemberDetailServiceImpl implements UserDetailsService {
 		Member member = memberDao.findByUsername(username);
 
 		Set<GrantedAuthority> grantedAuthorities = new HashSet<GrantedAuthority>();
-		grantedAuthorities.add(new SimpleGrantedAuthority("ROLE_USER"));
+		// 일단 야매로 만든다.
+		if (username == "admindb") {
+			grantedAuthorities.add(new SimpleGrantedAuthority("ROLE_ADMIN"));
+		} else {
+			grantedAuthorities.add(new SimpleGrantedAuthority("ROLE_USER"));
+		}
+
 		return new User(member.getUsername(), member.getPassword(), grantedAuthorities);
 	}
 

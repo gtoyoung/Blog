@@ -12,6 +12,7 @@
 		<intercept-url pattern="/**/write*" access="hasRole('ROLE_USER')" />
 		<intercept-url pattern="/**/edit*" access="hasRole('ROLE_USER')" />
 		<intercept-url pattern="/**/delete*" access="hasRole('ROLE_USER')" />
+		<intercept-url pattern="/admin" access="hasRole('ROLE_USER')" />
 		<form-login login-page="/login" default-target-url="/"
 			authentication-failure-url="/login?error" username-parameter="username"
 			password-parameter="password" />

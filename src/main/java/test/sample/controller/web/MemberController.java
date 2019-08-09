@@ -52,5 +52,5 @@ public class MemberController {
 		model.addAttribute("memberForm", new Member());
 		return "join";
 	}
-
+	
 }
