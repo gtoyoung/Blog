@@ -6,13 +6,26 @@
 <html lang="${pageContext.request.locale.language}">
 <head>
 
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Mobile Specific Meta -->
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- Favicon-->
+<link rel="shortcut icon" href="/resources/template/img/fav.png">
+<!-- Author Meta -->
+<meta name="author" content="codepixer">
+<!-- Meta Description -->
 <meta name="description" content="">
-<meta name="author" content="">
-<%@ include file="/WEB-INF/include/include-header.jspf"%>
+<!-- Meta Keyword -->
+<meta name="keywords" content="">
+<!-- meta character set -->
+<meta charset="UTF-8">
 
+<link
+	href="https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400,500"
+	rel="stylesheet">
+
+<%@ include file="/WEB-INF/include/template-header.jspf"%>
+<%-- <%@ include file="/WEB-INF/include/include-header.jspf"%> --%>
 <title>DoubleB`s Post</title>
 
 
@@ -21,116 +34,219 @@
 
 <body onload="getAllList()">
 
-	<!-- Navigation -->
-	<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-		<div class="container-fluid">
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header page-scroll">
-				<button type="button" class="navbar-toggle" data-toggle="collapse"
-					data-target="#bs-example-navbar-collapse-1">
-					<span class="sr-only">Toggle navigation</span> <span
-						class="icon-bar"></span> <span class="icon-bar"></span> <span
-						class="icon-bar"></span>
-				</button>
-				<a class="navbar-brand" href="#">DoubleB</a>
-			</div>
-
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse"
-				id="bs-example-navbar-collapse-1">
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="/post/list">홈으로</a></li>
-					<li><a href="#">개고생중..</a></li>
-					<li><a href="/post/write">글쓰기</a></li>
-					<li><a href="#">Contact</a></li>
-				</ul>
-			</div>
-			<!-- /.navbar-collapse -->
-		</div>
-		<!-- /.container -->
-	</nav>
-
-	<!-- Page Header -->
-	<!-- Set your background image for this header on the line below. -->
-	<header class="intro-header"
-		style="background-image: url('/resource/img/post-bg.jpg')">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-					<div class="post-heading">
-						<h1>${post.title }</h1>
-						<h2 class="subheading">${post.subtitle }</h2>
-						<span class="meta">Posted by <a href="#">${post.member.getUsername()}</a>
-							on ${post.regDate}
-						</span>
-					</div>
+	<!-- Start header Area -->
+	<header id="header">
+		<div class="container box_1170 main-menu">
+			<div class="row align-items-center justify-content-between d-flex">
+				<div id="logo">
+					<a href="/post/list"><img
+						src="/resources/template/img/logo.png" alt="" title="" /></a>
 				</div>
+				<nav id="nav-menu-container">
+					<ul class="nav-menu">
+						<li class="menu-active"><a href="/post/list">Home</a></li>
+						<li><a href="#">개고생중...</a></li>
+						<li><a href="/post/write">Posting</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</nav>
 			</div>
 		</div>
 	</header>
+	<!-- End header Area -->
 
-	<!-- Post Content -->
-	<article>
+	<!-- start banner Area -->
+	<section class="banner-area relative">
+		<div class="overlay overlay-bg"></div>
+		<div class="container">
+			<div class="row d-flex align-items-center justify-content-center">
+				<div class="about-content col-lg-12">
+					<h1 class="text-white">${post.title}</h1>
+					<p class="text-white link-nav">
+						<a href="/post/list">Home </a> <span class="lnr lnr-arrow-right"></span>
+						<a href="#"> ${post.title}</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End banner Area -->
+
+	<!-- Blog Area -->
+	<section class="blog_area section-gap single-post-area">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-					${post.content }</div>
-				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-					<h3 style="line-height: 1.6;">
-						<c:forEach var="postTag" items="${post.postTagList}"
-							varStatus="status">
-							<a
-								href="/tag/<c:out value="${postTag.tag.name}" escapeXml="true" />/post/list">
-								<span class="label label-default"><c:out
-										value="${postTag.tag.name}" escapeXml="true" /></span>
-							</a>
-						</c:forEach>
-					</h3>
-				</div>
-				<c:if
-					test="${pageContext.request.userPrincipal.name == post.member.getUsername()}">
-					<div class="pull-right">
-
-						<a href="/post/${post.id}/edit">
-							<button type="button" class="btn btn-warning">Edit</button>
-						</a> <a href="/post/${post.id}/delete"
-							onclick="if(!confirm('진심이에요?')){return false;}">
-							<button type="button" class="btn btn-danger">Delete</button>
-						</a>
-					</div>
-				</c:if>
-			</div>
-			
-	</article>
-
-	<hr>
-	<footer>
-		<c:if test="${pageContext.request.userPrincipal.name !=null}">
-			<div class="container">
-				<hr>
-
-				<div class="row">
-					<div id="target"
-						class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"></div>
-					<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-						<br>
-						<form action="/reply" method="post" id="comment_form">
-							<input type="hidden" name="postId" value="${post.id}"> <input
-								type="hidden" name="_csrf" value="${_csrf.token}"></input>
-							<div class="media">
-								<div class="media-body">
-									<textarea name="content" class="form-control" rows="2"></textarea>
-								</div>
-								<div class="media-right">
-									<button class="btn" type="submit">저장</button>
+				<div class="col-lg-8">
+					<div class="main_blog_details">
+						<img class="img-fluid"
+							src="/resources/template/img/blog/news-blog.jpg" alt="">
+						<h4>${post.subtitle}</h4>
+						<div class="user_details">
+							<div class="float-left">
+								<c:forEach var="postTag" items="${post.postTagList}"
+									varStatus="status">
+									<a
+										href="/tag/<c:out value="${postTag.tag.name}" escapeXml="true" />/post/list">
+										<span class="label label-default"><c:out
+												value="${postTag.tag.name}" escapeXml="true" /></span>
+									</a>
+								</c:forEach>
+							</div>
+							<div class="float-right">
+								<div class="media">
+									<div class="media-body">
+										<h5>Posted by ${post.member.getUsername()}</h5>
+										<p>${post.regDate}</p>
+									</div>
+									<div class="d-flex">
+										<img src="/resources/template/img/blog/user-img.jpg" alt="">
+									</div>
 								</div>
 							</div>
-						</form>
+						</div>
+						<p>${post.content }</p>
+						<!-- 						<div class="news_d_footer">
+							<a href="#"><i class="lnr lnr lnr-heart"></i>Lily and 4
+								people like this</a> <a class="justify-content-center ml-auto"
+								href="#"><i class="lnr lnr lnr-bubble"></i>06 Comments</a>
+							<div class="news_socail ml-auto">
+								<a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i
+									class="fa fa-twitter"></i></a> <a href="#"><i
+									class="fa fa-pinterest"></i></a> <a href="#"><i
+									class="fa fa-rss"></i></a>
+							</div>
+						</div> -->
+						<c:if
+							test="${pageContext.request.userPrincipal.name == post.member.getUsername()}">
+							<div class="pull-right">
+
+								<a href="/post/${post.id}/edit">
+									<button type="button" class="btn btn-warning">Edit</button>
+								</a> <a href="/post/${post.id}/delete"
+									onclick="if(!confirm('진심이에요?')){return false;}">
+									<button type="button" class="btn btn-danger">Delete</button>
+								</a>
+							</div>
+						</c:if>
+					</div>
+					<div class="comments-area">
+						<div class="comment-list">
+							<div class="single-comment justify-content-between d-flex">
+								<div class="user justify-content-between d-flex">
+									<div class="thumb">
+										<img src="/resources/template/img/blog/c1.jpg" alt="">
+									</div>
+									<div id="target" class="desc"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<c:if test="${pageContext.request.userPrincipal.name !=null}">
+						<div class="container">
+							<div id="target"
+								class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"></div>
+							<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+								<div class="comment-form">
+									<h4>Leave a Reply</h4>
+									<form action="/reply" method="post" id="comment_form">
+										<div class="form-group">
+											<input type="hidden" name="postId" value="${post.id}">
+											<input type="hidden" name="_csrf" value="${_csrf.token}"></input>
+											<textarea name="content" class="form-control mb-10" rows="2"
+												placeholder="Messege" onfocus="this.placeholder = ''"
+												onblur="this.placeholder = 'Messege'"></textarea>
+										</div>
+										<button class="primary-btn submit_btn text-uppercase"
+											type="submit">reply</button>
+									</form>
+								</div>
+							</div>
+						</div>
+					</c:if>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Blog Area -->
+
+	<footer class="footer-area section-gap">
+		<div class="container box_1170">
+			<div class="row">
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="single-footer-widget">
+						<h6 class="footer_title">About Us</h6>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+							sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="single-footer-widget">
+						<h6 class="footer_title">Newsletter</h6>
+						<p>Stay updated with our latest trends</p>
+						<div id="mc_embed_signup">
+							<form target="_blank"
+								action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
+								method="get" class="subscribe_form relative">
+								<div class="input-group d-flex flex-row">
+									<input name="EMAIL" placeholder="Email Address"
+										onfocus="this.placeholder = ''"
+										onblur="this.placeholder = 'Email Address '" required=""
+										type="email">
+									<button class="btn sub-btn">
+										<span class="lnr lnr-arrow-right"></span>
+									</button>
+								</div>
+								<div class="mt-10 info"></div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-footer-widget instafeed">
+						<h6 class="footer_title">Instagram Feed</h6>
+						<ul class="list instafeed d-flex flex-wrap">
+							<li><img src="/resources/template/img/i1.jpg" alt=""></li>
+							<li><img src="/resources/template/img/i2.jpg" alt=""></li>
+							<li><img src="/resources/template/img/i3.jpg" alt=""></li>
+							<li><img src="/resources/template/img/i4.jpg" alt=""></li>
+							<li><img src="/resources/template/img/i5.jpg" alt=""></li>
+							<li><img src="/resources/template/img/i6.jpg" alt=""></li>
+							<li><img src="/resources/template/img/i7.jpg" alt=""></li>
+							<li><img src="/resources/template/img/i8.jpg" alt=""></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-2 col-md-6 col-sm-6">
+					<div class="single-footer-widget f_social_wd">
+						<h6 class="footer_title">Follow Us</h6>
+						<p>Let us be social</p>
+						<div class="f_social">
+							<a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i
+								class="fa fa-twitter"></i></a> <a href="#"><i
+								class="fa fa-dribbble"></i></a> <a href="#"><i
+								class="fa fa-behance"></i></a>
+						</div>
 					</div>
 				</div>
 			</div>
-		</c:if>
+			<div
+				class="row footer-bottom d-flex justify-content-between align-items-center">
+				<p class="col-lg-12 footer-text text-center">
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					Copyright &copy;
+					<script>
+						document.write(new Date().getFullYear());
+					</script>
+					All rights reserved | This template is made with <i
+						class="fa fa-heart-o" aria-hidden="true"></i> by <a
+						href="https://colorlib.com" target="_blank">Colorlib</a>
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+				</p>
+			</div>
+		</div>
 	</footer>
+
 	<%@ include file="/WEB-INF/include/reply-nav.jspf"%>
 	<script id="template" type="x-tmpl-mustache">
 {{#.}}
@@ -237,6 +353,7 @@
 		loadComment();
 	</script>
 
+	<%@ include file="/WEB-INF/include/template-bottom.jspf"%>
 </body>
 
 </html>
