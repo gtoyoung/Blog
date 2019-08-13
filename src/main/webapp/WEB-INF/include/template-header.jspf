@@ -5,3 +5,7 @@
 <link rel="stylesheet" href="/resource/template/css/magnific-popup.css">
 <link rel="stylesheet" href="/resource/template/css/bootstrap.css">
 <link rel="stylesheet" href="/resource/template/css/main.css">
+<script src="/webjars/jquery/1.11.1/jquery.min.js"></script>
+<script src="/resource/js/modernizr.custom.63321.js"></script>
+<script src="/resource/js/handlebars.js"></script>
+<script src="/resource/js/jQuery-2.1.4.min.js"></script>

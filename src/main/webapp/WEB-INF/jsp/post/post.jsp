@@ -105,17 +105,6 @@
 							</div>
 						</div>
 						<p>${post.content }</p>
-						<!-- 						<div class="news_d_footer">
-							<a href="#"><i class="lnr lnr lnr-heart"></i>Lily and 4
-								people like this</a> <a class="justify-content-center ml-auto"
-								href="#"><i class="lnr lnr lnr-bubble"></i>06 Comments</a>
-							<div class="news_socail ml-auto">
-								<a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i
-									class="fa fa-twitter"></i></a> <a href="#"><i
-									class="fa fa-pinterest"></i></a> <a href="#"><i
-									class="fa fa-rss"></i></a>
-							</div>
-						</div> -->
 						<c:if
 							test="${pageContext.request.userPrincipal.name == post.member.getUsername()}">
 							<div class="pull-right">
@@ -129,13 +118,16 @@
 							</div>
 						</c:if>
 					</div>
+					<div class="navigation-area">
+					</div>
 					<div class="comments-area">
-						<div class="comment-list">
+						<div class="comment-list left-padding">
 							<div class="single-comment justify-content-between d-flex">
 								<div class="user justify-content-between d-flex">
 									<div class="thumb">
 										<img src="/resources/template/img/blog/c1.jpg" alt="">
 									</div>
+									
 									<div id="target" class="desc"></div>
 								</div>
 							</div>
@@ -144,8 +136,6 @@
 
 					<c:if test="${pageContext.request.userPrincipal.name !=null}">
 						<div class="container">
-							<div id="target"
-								class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"></div>
 							<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 								<div class="comment-form">
 									<h4>Leave a Reply</h4>
@@ -252,8 +242,8 @@
 {{#.}}
 <div class="media">
   <div class="media-body">
-	{{{content}}}<br>
-	<h4 class="media-heading" style="display: inline-block;">{{name}}</h4> on {{momentNow}} <small>({{momentDate}})</small>
+	<p class = "comment">{{{content}}}</p><br>
+	<h5 class="media-heading" style="display: inline-block;">{{name}}</h5> on {{momentNow}} <p class="date">({{momentDate}})</p>
 	{{#myComment}}<button type="button" style="margin-bottom: 5px;" class="btn btn-danger btn-sm" onclick="if(!confirm('진심이에요?')){return false;} deleteComment({{postId}}, {{id}});">Delete</button>{{/myComment}}
     <br>
   </div>
