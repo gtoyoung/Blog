@@ -1,0 +1,29 @@
+{
+   "cap_add" : [],
+   "cap_drop" : [],
+   "cmd" : "",
+   "cpu_priority" : 0,
+   "enable_publish_all_ports" : false,
+   "enabled" : true,
+   "env_variables" : [],
+   "exporting" : false,
+   "id" : "2c3e4f746fa501f31e7103c580602573bbcbaa128f766430015f7057b467b253",
+   "image" : "jenkins/jenkins:latest",
+   "is_package" : false,
+   "links" : [],
+   "memory_limit" : 0,
+   "name" : "myjenkins",
+   "pin" : false,
+   "port_bindings" : [
+      {
+         "container_port" : 8080,
+         "host_port" : 8080,
+         "type" : "tcp"
+      }
+   ],
+   "privileged" : false,
+   "shortcut" : {
+      "enable_shortcut" : false
+   },
+   "volume_bindings" : []
+}
