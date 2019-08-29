@@ -6,11 +6,26 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<link href="/resource/css/bootstrap.min.css" rel="stylesheet">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- Favicon-->
+<link rel="shortcut icon" href="/resources/template/img/fav.png">
+<!-- Author Meta -->
+<meta name="author" content="codepixer">
+<!-- Meta Description -->
+<meta name="description" content="">
+<!-- Meta Keyword -->
+<meta name="keywords" content="">
+<!-- meta character set -->
+<meta charset="UTF-8">
 
-<script src="/webjars/jquery/1.11.1/jquery.min.js"></script>
+<link
+	href="https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:400,500"
+	rel="stylesheet">
+
+<%@ include file="/WEB-INF/include/template-header.jspf"%>
 <script src="/resource/editor/js/HuskyEZCreator.js"></script>
-<title>글작성</title>
+<title>DoubleB`s Post</title>
 <style type="text/css">
 .fileDrop {
 	width: 80%;
@@ -22,61 +37,110 @@
 </style>
 </head>
 <body>
-	<div>
-		<form:form
-			action="${requestScope['javax.servlet.forward.servlet_path']}"
-			commandName="post" method="post" id="frm">
+	<!-- Start header Area -->
+	<header id="header">
+		<div class="container box_1170 main-menu">
+			<div class="row align-items-center justify-content-between d-flex">
+				<div id="logo">
+					<a href="/post/list"><img
+						src="/resources/template/img/logo.png" alt="" title="" /></a>
+				</div>
+				<nav id="nav-menu-container">
+					<ul class="nav-menu">
+						<li class="menu-active"><a href="/post/list">Home</a></li>
+						<li><a href="#">개고생중...</a></li>
+						<li><a href="/post/write">Posting</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+	<!-- End header Area -->
 
-			<div class="form-group" style="height: 30px;">
-				<label for="category" class="col-sm-2 col-xs-3 control-label"
-					style="padding-left: 5px;">Category</label>
-				<div class="col-sm-10 col-xs-9" style="padding-right: 5px;">
-					<form:select path="categoryId" items="${categoryMap}" id="category"
-						class="form-control" />
-					<form:errors path="categoryId" cssClass="error" />
+	<!-- start banner Area -->
+	<section class="banner-area relative">
+		<div class="overlay overlay-bg"></div>
+		<div class="container">
+			<div class="row d-flex align-items-center justify-content-center">
+				<div class="about-content col-lg-12">
+					<h1 class="text-white">글을 쓰시오</h1>
+					<p class="text-white link-nav">
+						<a href="/post/list">Home </a> <span class="lnr lnr-arrow-right"></span>
+						<a href="#">글쓰는 중</a>
+					</p>
 				</div>
 			</div>
-			<input type="hidden" name="${_csrf.parameterName}"
-				value="${_csrf.token}" />
+		</div>
+	</section>
+	<!-- End banner Area -->
+	<section class="blog_area section-gap single-post-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8">
+					<div class="main_blog_details">
+						<img class="img-fluid"
+							src="/resources/template/img/blog/news-blog.jpg" alt="">
+						<div>
+							<form:form
+								action="${requestScope['javax.servlet.forward.servlet_path']}"
+								commandName="post" method="post" id="frm">
 
-			<label>제목</label>
-			<form:input type="text" path="title" name="title"
-				style="height: 30px; width: 100%; font-size: 25px; border: none; border-right: 0px; border-top: 0px; boder-left: 0px; boder-bottom: 1px; outline-style: none; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 800;"></form:input>
-			<form:errors path="title" cssClass="error" />
-			<hr style="margin-top: 2px; border-top: 1px solid #999;">
+								<div class="form-group" style="height: 30px;">
+									<label>Category</label>
+									<div class="col-sm-10 col-xs-9" style="padding-right: 5px;">
+										<form:select path="categoryId" items="${categoryMap}"
+											id="category" class="form-control"></form:select>
+										<form:errors path="categoryId" cssClass="error" />
+									</div>
+								</div>
+								<input type="hidden" name="${_csrf.parameterName}"
+									value="${_csrf.token}" />
+								<br />
+								<label>제목</label>
+								<form:input type="text" path="title" name="title"
+									style="height: 30px; width: 100%; font-size: 25px; border: none; border-right: 0px; border-top: 0px; boder-left: 0px; boder-bottom: 1px; outline-style: none; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 800;"></form:input>
+								<form:errors path="title" cssClass="error" />
+								<hr style="margin-top: 2px; border-top: 1px solid #999;">
 
-			<label>부제목</label>
-			<form:input type="text" name="subtitle" path="subtitle"
-				style="height: 20px; width: 100%; font-size: 20px; border: none; border-right: 0px; border-top: 0px; boder-left: 0px; boder-bottom: 1px; outline-style: none; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 800;" />
-			<hr style="margin-top: 2px; border-top: 1px solid #999;">
+								<label>부제목</label>
+								<form:input type="text" name="subtitle" path="subtitle"
+									style="height: 20px; width: 100%; font-size: 20px; border: none; border-right: 0px; border-top: 0px; boder-left: 0px; boder-bottom: 1px; outline-style: none; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 800;" />
+								<hr style="margin-top: 2px; border-top: 1px solid #999;">
 
-			<div class="form-group">
-				<label for="exampleInputEmail1">File DROP Here</label>
-				<div class="fileDrop"></div>
-			</div>
-			<div class="box-footer">
-				<div>
-					<hr>
-				</div>
-				<ul class="mailbox-attachments clearfix uploadedList"></ul>
-			</div>
-			<form:textarea name="content" path="content" id="editor" rows="10"
-				cols="100" style="width: 50%; height: 100px;" />
+								<div class="form-group">
+									<label for="exampleInputEmail1">File DROP Here -> "기능 구현 필요"</label>
+									<div class="fileDrop" style="width: 710px;"></div>
+								</div>
+								<div class="box-footer">
+									<div>
+										<hr>
+									</div>
+									<ul class="mailbox-attachments clearfix uploadedList"></ul>
+								</div>
+								<form:textarea name="content" path="content" id="editor"
+									rows="10" cols="30" style="width:710px; height:350px;" />
 
-			<form:input type="text" path="tags"
-				placeholder="Tag (option - 최대 10개. 공백으로 구분합니다.)"
-				style="height: 40px; width: 100%; font-size: 18px; 
+								<form:input type="text" path="tags"
+									placeholder="Tag (option - 최대 10개. 공백으로 구분합니다.)"
+									style="height: 40px; width: 100%; font-size: 18px; 
 			border: none; border-right: 0px; border-top: 0px; boder-left: 0px; boder-bottom: 1px; outline-style: none; 
 			font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 600;" />
 
-			<hr style="margin-top: 2px; border-top: 1px solid #999;">
-			<form:errors path="content" cssClass="error" />
+								<hr style="margin-top: 2px; border-top: 1px solid #999;">
+								<form:errors path="content" cssClass="error" />
 
 
 
-			<button type="submit" class="btn btn-primary" id="savebutton">저장</button>
-		</form:form>
-	</div>
+								<button type="submit" class="btn btn-primary" id="savebutton">저장</button>
+							</form:form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
 
 	<script type="text/javascript">
 		$(function() {
@@ -127,6 +191,6 @@
 				});
 	</script>
 
-
+	<%@ include file="/WEB-INF/include/template-bottom.jspf"%>
 </body>
 </html>
